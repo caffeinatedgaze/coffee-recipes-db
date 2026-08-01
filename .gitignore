@@ -1,4 +1,5 @@
 raw-feed-sample.json
 raw-tilt-full.json
+coffee_recipes.sqlite
 *.pyc
 __pycache__/

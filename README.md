@@ -1,6 +1,6 @@
 # Coffee DB
 
-Small local SQLite database of coffee-making recipes and tips pulled from public Instagram feeds.
+Small local text-file library of coffee-making recipes and tips pulled from public Instagram feeds.
 
 ## What is stored
 
@@ -13,10 +13,11 @@ Small local SQLite database of coffee-making recipes and tips pulled from public
 
 ## Files
 
-- `build.py` - rebuilds the database from `seed.json`
+- `build.py` - rebuilds the text exports from `seed.json`
 - `seed.json` - curated source records with full captions/transcripts
-- `coffee_recipes.sqlite` - SQLite database
-- `recipes.json` - JSON export of the same records
+- `recipes.json` - structured JSON export
+- `recipes.md` - human-readable catalog
+- `recipes.txt` - plain-text catalog
 
 ## Rebuild
 
@@ -26,8 +27,10 @@ python3 coffee-db/build.py
 
 ## Query
 
+Use `jq`, `rg`, or plain text search against the exported files.
+
 ```bash
-sqlite3 coffee-db/coffee_recipes.sqlite "select handle, posted_at, category, substr(transcript, 1, 120) from entries order by posted_at desc;"
+jq '.[].source.handle' coffee-db/recipes.json
 ```
 
 ## Notes

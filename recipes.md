@@ -1,0 +1,473 @@
+# Coffee Library
+
+Curated coffee-making recipes and tips from public Instagram captions.
+
+## Your Americano has entered its fluffy era.
+
+```text
+#11 Your Americano has entered its fluffy era.
+Source: Brick & Mortar Coffee (@brickandmortarcoffee)
+Profile: https://www.instagram.com/brickandmortarcoffee/
+Post: https://www.instagram.com/p/DbdwanzDjFX/
+Posted: 2026-07-31T17:04:27.000Z
+Category: drink_tip
+Tags: americano, texture, espresso, drink
+Summary: Textural Americano variation that steams espresso and water into a microfoam-like drink.
+Transcript source: Instagram caption
+
+Your Americano has entered its fluffy era.
+
+The AIROCANO uses steamed espresso and water to create a smooth, microfoam texture, almost like an Americano and a flat white had a very caffeinated baby.
+
+It sounds questionable. It tastes surprisingly great. You may even be able to pour a little latte art on top.
+
+Try it at home and report back. For science.
+
+#AmericanoRecipe #CoffeeTips #HomeBarista #EspressoDrink #SpecialtyCoffee
+```
+
+## Granja Paraiso92 Colombia Yellow Typica DAT Honey
+
+```text
+#1 Granja Paraiso92 Colombia Yellow Typica DAT Honey
+Source: tilt.45 (@tilt.45)
+Profile: https://www.instagram.com/tilt.45/
+Post: https://www.instagram.com/p/Dba7oA_yTpq/
+Posted: 2026-07-30T14:43:39.000Z
+Category: filter_recipe
+Tags: filter, pour-over, honey-process, texture, colombia
+Summary: Thick-bodied recipe for a complex Colombian honey-process coffee, aiming at tropical fruit and texture.
+Transcript source: Instagram caption
+
+「Granja Paraiso92 Colombia Yellow Typica DAT Honey」
+
+コロンビア南西部、カウカに位置するGranja Paraiso92のYellow Typicaをリリースします。
+
+生産者のWilton Benitez氏は先進的なプロセスを行う生産者として有名な、いわばパイオニア的存在。Granja Paraiso92の魅力は、複雑なプロセスとそこから来る味わいに詰まっています。
+
+Honeyと記載していますが、厳密には「Double Anaerobic Fermentation Thermal shock Honey」詳しいプロセスはインポーターであるHaiz coffee importさんのサイトにアクセスすれば見ることができるので、興味のある方はぜひ。
+
+ここでは、このコーヒーの抽出やその先の楽しみ方にフォーカスしていきます。
+
+香り、味わい、口当たり、どれをとってもとにかく厚みのある印象。特に口当たりは素晴らしいものです。あえて酸味を集中的に狙わずとも表現できる熟したトロピカルフルーツのテイストが印象的な一杯でした。
+
+フレーバーは表現しやすいように感じたので、今回はより質感重視のとろっとほわっとレシピで淹れていきます。
+
+いい感じに淹れられると、一口目からツルッととろっとした感じのトロピカル柔らかコーヒーに仕上がります。是非試してみてください。
+
+Here is how I brew it 僕ならこう淹れる
+粉量13g / 中粗挽き(Comandante 28click) / 92℃
+0:00-0:07 30g
+0:30-0:37 60g
+1:00-1:07 90g
+1:30-1:37 120g
+1:50-1:57 150g
+2:10-2:17 200g
+2:30-2:40 finish
+
+君ならどう淹れる？
+飲んでみた感想もお待ちしています。
+```
+
+## Las Nubes Guatemala Bourbon Washed
+
+```text
+#2 Las Nubes Guatemala Bourbon Washed
+Source: tilt.45 (@tilt.45)
+Profile: https://www.instagram.com/tilt.45/
+Post: https://www.instagram.com/p/Dba7dqaytY4/
+Posted: 2026-07-30T14:42:14.000Z
+Category: filter_recipe
+Tags: filter, pour-over, clarity, washed, guatemala
+Summary: Clean, acid-forward pour-over for a washed Guatemala, with slower later pours to preserve citrus clarity.
+Transcript source: Instagram caption
+
+「Las Nubes Guatemala Bourbon Washed」
+
+グアテマラの首都からそう遠くない生産地アンティグア。火山に囲まれたこのエリアで栽培を行うPedro 氏が運営するLas Nubes。今回はBourbon種のWashedプロセスです。
+
+まずこのコーヒーを一口飲んだ時に印象的だったのは主張されすぎない柑橘類の酸質。穏やかです。すごく穏やかです。全体的にボリューム感は控えめな割に甘さと酸の印象はしっかり残る。洗練された印象を感じるコーヒーだと思います。
+
+派手なコーヒーが飲みたい、フレーバーがわかりやすいやつが飲みたい、そんな方にはこちらはあまりおすすめできませんが、とにかくクリーンで馴染んでくるようなコーヒーを求めてる方には是非おすすめさせていただきたいコーヒー。
+
+このコーヒーの繊細な酸質を抽出でうまく表現できるなら…
+
+なので今回は酸を主体にさせるレシピで、このコーヒーのキャラクター表現を狙っていこうと思います。味わいは良い感じにクリーンになってくれると思うのであえてのガンガンいこうぜレシピで調整してみました。
+
+前半は太めのお湯でしっかり注いで後半は遅めのお湯で優しく注ぐレシピです。何なら後半は湯音を落としてもいいかもしれません 
+
+Here is how I brew it 僕ならこう淹れる
+粉量13g / 中細挽き(Comandante 23click) / 92℃
+0:00-0:05 30g
+0:45-0:50 100g
+1:30-1:40 150g
+2:00-2:10 200g
+2:20-2:30 finish
+
+ 
+君ならどう淹れる？
+飲んでみた感想もお待ちしています。
+```
+
+## Anaerobic coffee. You’ve seen it on a bag and nodded along, right?
+
+```text
+#12 Anaerobic coffee. You’ve seen it on a bag and nodded along, right?
+Source: Bettr Academy (@bettr.academy)
+Profile: https://www.instagram.com/bettr.academy/
+Post: https://www.instagram.com/p/DbW4rOzj2c4/
+Posted: 2026-07-29T01:00:52.000Z
+Category: education
+Tags: fermentation, anaerobic, workshop, education
+Summary: Workshop promotion explaining fermentation and anaerobic coffee processes.
+Transcript source: Instagram caption
+
+Anaerobic coffee. You’ve seen it on a bag and nodded along, right? Well this is your chance to find out all about it and MORE. 
+
+Two days with the expert Luiz Roberto Saldana, co-founder of Capricornio Coffees on how fermentation works and how to steer it. No lab coat required, just curiosity. 
+
+☕️Coffee Fermentation: From Microbes to Flavour
+📅 26-27 Aug | 9am-5pm | Bettr Academy 
+Link in bio.
+```
+
+## 8月16日は蔵前 @au_riverside に集合！
+
+```text
+#5 8月16日は蔵前 @au_riverside に集合！
+Source: tilt.45 (@tilt.45)
+Profile: https://www.instagram.com/tilt.45/
+Post: https://www.instagram.com/p/DbSztGNBqVa/
+Posted: 2026-07-27T11:00:13.000Z
+Category: filter_recipe
+Tags: iced, filter, distillate, summer, recipe
+Summary: Iced coffee recipe with 320g brew, 80g ice, and optional distillate waters for a layered summer cup.
+Transcript source: Instagram caption
+
+8月16日は蔵前 @au_riverside に集合！
+
+ーーー今回の抽出レシピーーー
+　
+コーヒー
+@rikuto.co
+Colombia El Paseo Caturra Washed Fermented with Enzymes
+
+蒸留水
+@shinagawadistillery
+黒文字蒸留水 / 水楢蒸留水
+
+粉量 40g 総注湯量 320g 湯温90℃ 
+挽目 中細挽き
+　
+①0:00-0:10 80g
+②0:40-0:50 160g
+③1:20-1:25 240g
+④1:50-2:00 320g
+2:30 finish
+
+Ice cube 80g
+
+※コーヒーは2杯分のレシピです
+
+完成したコーヒー 140g + 黒文字蒸留水 5ml
+完成したコーヒー 140g + 水楢蒸留水 10ml
+
+ーーーーーーーーーーーーーー
+　
+いつものアイスコーヒーをさらにアレンジ。
+
+@shinagawadistillery さんの黒文字蒸留水と水楢蒸留水を伊藤さんに@itomito0323 僕のコーヒーに合わせてもらったよ。
+
+黒文字は日本製の伝統的なつまようじに使われる木で、水楢はいわゆるどんぐりの木。ウイスキーの熟成樽とかに使われる木だよ。
+
+今回加えたのは蒸留"水"なので加水するイメージでコーヒーも少し濃い目に。いつもより冷却に使う氷を減らしてその分伸ばしてるイメージで使ってみました。
+
+このドリンクは8/16のpop-upイベントでみんなも飲めるので、気になる人はイベントにもぜひ遊びに来てね！
+
+ノンアルコールメニューもあるのでコーヒーだけでも気軽にぜひ◯
+
+ーーーーーー
+イベント詳細
+📅8月16日 日曜日
+⌚13:00-21:00
+📍@au_riverside
+予約不要 誰でも参加可能
+ーーーーーー
+```
+
+## お家でスターバックス、やってみて
+
+```text
+#3 お家でスターバックス、やってみて
+Source: tilt.45 (@tilt.45)
+Profile: https://www.instagram.com/tilt.45/
+Post: https://www.instagram.com/p/DbNzrJ0xDa1/
+Posted: 2026-07-25T12:26:07.000Z
+Category: filter_recipe
+Tags: filter, drip, homebrew, coarse-grind, indonesia
+Summary: Coarse-grind home brew for a blonde-roast Indonesian blend; front-loaded pours for sweetness and bright character.
+Transcript source: Instagram caption
+
+お家でスターバックス、やってみて
+
+ーーー今回の抽出レシピーーー
+　
+@starbucks_j
+Smatra Masa Depan
+
+粉量 20g 総注湯量 300g 湯温90℃ 
+挽目 粗挽き
+　
+①0:00-0:10 50g
+②0:40-0:50 100g
+③1:20-1:30 150g 
+④1:45-1:55 200g
+⑤2:10-2:17 300g 
+2:50 finish 
+
+ーーーーーーーーーーーーーー
+　
+ブロンドローストのトロッとした質感とあまさを表現するための粗挽き、
+そこからしっかりキャラクターとなる明るい味わいを
+引き出すための前半多投レシピだよ。
+
+インドネシアのコーヒー、個人的には結構好きで今まで色々飲んでたけれど
+このスマトラ マサ デパンもしっかりインドネシアテイストが感じられて
+かなり好みだった。
+
+ちなみにこのコーヒーはナチュラルとウォッシュトのブレンドらしい。
+果実感とクリーンなニュアンスの両立はプロセスのブレンドから来てるんだね。
+
+みんなも近くのスターバックスで買えるはずなので、
+是非家でコーヒー淹れてみてね
+#PR #スターバックス
+```
+
+## Meet two new additions to the SCA Certified Home Brewers list
+
+```text
+#9 Meet two new additions to the SCA Certified Home Brewers list
+Source: Specialty Coffee Association (@specialtycoffeeassociation)
+Profile: https://www.instagram.com/specialtycoffeeassociation/
+Post: https://www.instagram.com/p/DbJKkFsoJn8/
+Posted: 2026-07-23T17:07:51.000Z
+Category: gear
+Tags: home-brewer, gear, temperature, sca
+Summary: SCA home brewer post with temperature range and brew-profile notes for GE drip coffee makers.
+Transcript source: Instagram caption
+
+Meet two new additions to the SCA Certified Home Brewers list:
+
+☕ GE Café Specialty Drip Coffee Maker — 2-10 cup settings with light, medium, and bold flavor profiles; brews at 185-205°F with a vacuum carafe that holds heat up to 2 hours. (@geappliances)
+
+☕ GE Café Specialty Drip Coffee Maker with Glass Carafe — same brew controls and temperature range, paired with a glass carafe and warming plate that holds heat up to 2 hours. (@geappliances)
+
+Explore the full list of Certified Home Brewers at sca.coffee/certified-home-brewer
+```
+
+## Coffee hot take: your Americano might taste better without the crema.
+
+```text
+#10 Coffee hot take: your Americano might taste better without the crema.
+Source: Brick & Mortar Coffee (@brickandmortarcoffee)
+Profile: https://www.instagram.com/brickandmortarcoffee/
+Post: https://www.instagram.com/p/DbI8E5aCtlQ/
+Posted: 2026-07-23T15:02:17.000Z
+Category: drink_tip
+Tags: americano, crema, clarity, taste
+Summary: Tasting tip arguing that removing crema from an Americano can improve sweetness, brightness, and clarity.
+Transcript source: Instagram caption
+
+Coffee hot take: your Americano might taste better without the crema. ☕️
+
+Removing that top layer can bring out more sweetness, brightness, and clarity with less bitterness. Try it side by side and taste the difference for yourself.
+
+#AmericanoCoffee #EspressoTips #SpecialtyCoffee #CoffeeEducation #SpringfieldCoffee
+```
+
+## We had such a great time hosting our recent coffee class
+
+```text
+#13 We had such a great time hosting our recent coffee class
+Source: First Crack Coffee (@first.crack.coffee)
+Profile: https://www.instagram.com/first.crack.coffee/
+Post: https://www.instagram.com/p/Da5b7CZER5U/
+Posted: 2026-07-17T14:31:39.000Z
+Category: education
+Tags: class, education, home-barista, training
+Summary: Coffee class promo emphasizing hands-on learning, questions, and technique practice.
+Transcript source: Instagram caption
+
+We had such a great time hosting our recent coffee class and loved seeing everyone ask questions, practice new techniques, and connect over a shared love of coffee. We’re already looking forward to bringing more hands-on learning opportunities to the lab.
+
+What would you love to learn about at a future coffee class? Share your ideas below and tag someone you’d bring with you. Your feedback may help inspire what we offer next!
+
+#CoffeeClass #CoffeeEducation #SpecialtyCoffee #HomeBarista #RochesterNY
+```
+
+## Coffee Tasting Basics
+
+```text
+#8 Coffee Tasting Basics
+Source: It’s Just Coffee Podcast (@itsjustcoffeepodcast)
+Profile: https://www.instagram.com/itsjustcoffeepodcast/
+Post: https://www.instagram.com/p/DaY4K_roMsz/
+Posted: 2026-07-04T23:04:04.000Z
+Category: tasting
+Tags: tasting, flavor-wheel, education, comparison
+Summary: Short tasting-language primer about sweetness, acidity, bitterness, comparison tasting, and using simple descriptors first.
+Transcript source: Instagram caption
+
+COFFEE TASTING BASICS
+
+Start with how we taste
+The basics of sweetness, acidity and bitterness.
+
+Use the flavour wheel
+Start broad before chasing exact flavours.
+
+Build a common language
+Find simple words you can return to.
+
+Taste in comparison
+Try coffees side by side.
+
+Describe it to someone else
+Saying it out loud helps lock it in.
+
+You do not need to find “strawberry cordial with a roasted hazelnut finish” straight away.
+Fruity is a great start. Sweet is a great start. Build the language, then build the detail. 
+
+FULL EP LIVE WITH SO MUCH MORE!
+
+@raulitobarista
+@paradigmacoffee
+
+World Barista Champion Explains the Perfect Espresso !
+```
+
+## エチオピアｧｧｧｧｧｧって味、いいよね
+
+```text
+#4 エチオピアｧｧｧｧｧｧって味、いいよね
+Source: tilt.45 (@tilt.45)
+Profile: https://www.instagram.com/tilt.45/
+Post: https://www.instagram.com/p/DaXlKLVR4lS/
+Posted: 2026-07-04T11:06:43.000Z
+Category: filter_recipe
+Tags: filter, ethiopia, washed, bypass, clarity
+Summary: Washed Ethiopian recipe using a slightly coarser grind and a small bypass to adjust concentration.
+Transcript source: Instagram caption
+
+エチオピアｧｧｧｧｧｧって味、いいよね
+
+ーーー今回の抽出レシピーーー
+　
+@rikuto.co
+Ethiopia Goro Bedessa WS Heiroom Washed
+
+粉量 13g 総注湯量 200g 湯温90℃ 
+挽目 中挽（@comandantegrinder 26clicks)
+　
+①0:00-0:10 40g
+②0:40-0:47 120g
+③1:20-1:27 160g 
+④1:50-2:00 200g
+2:40 finish 
+
+(今回は落ちきらなかったので少し加水して濃度調整)
+
+ーーーーーーーーーーーーーー
+　
+綺麗めのエチオピアウォッシュト、常においておきたいよね。
+コーヒー屋さんに行っても迷ったらとりあえず頼んじゃうかも。
+
+前回の酸味ギュンギュンレシピとはまた違ったフローラルさと明るい甘さを楽しみたかったから、今回はちょい粗×長時間抽出をベースに、酸味の印象を引き上げるために一投目の量を少し増やした状態で調整してみたよ。
+
+とにかく綺麗で華やかなエチオピアウォッシュト
+フローラルで甘い香りが特徴の綺麗めコーヒーだよ。
+オンラインストアにもまだ若干のこってるけど今回で一旦今の生豆在庫は終了。
+また次の入荷は未定だから気になる人はぜひ[rikuto.co]をチェック🔥
+```
+
+## オレッチはこう淹れる
+
+```text
+#6 オレッチはこう淹れる
+Source: tilt.45 (@tilt.45)
+Profile: https://www.instagram.com/tilt.45/
+Post: https://www.instagram.com/p/DaFrxcAR3MK/
+Posted: 2026-06-27T12:26:35.000Z
+Category: filter_recipe
+Tags: switch, hybrid, natural, fermented, filter
+Summary: Hybrid Switch recipe for a fermented natural, using open and close stages to balance structure and fermentation.
+Transcript source: Instagram caption
+
+オレッチはこう淹れる
+
+ーーー今回の抽出レシピーーー
+　
+@brewmethods
+Colombia Las Flores Java Natural
+
+粉量 13g 総注湯量 200g 湯温 ①②90℃ ③75℃
+挽目 中粗挽（@comandantegrinder 28clicks)
+　
+①0:00-0:07 30g (open)
+②0:40-0:47 90g (open)
+③1:20-1:27 200g (close)
+2:00 open
+2:25 finish 
+
+ーーーーーーーーーーーーーー
+　
+今回もスイッチを使ったハイブリッドメソッド
+
+なんだけども付けるドリッパーはフラットボトムドリッパーのオレア
+
+コーヒーベットを低くした上でスイッチ機能を使えるからバチバチ発酵系のコーヒーにはすごく向いてるんじゃないかな。
+
+いつもとほとんど同じレシピで発酵系のコーヒーをバランスよく淹れられるから結構重宝しそう。
+
+近日中に日本でもリリースされるらしいからぜひゲットして試してみてね
+```
+
+## イエメンのコーヒーはこんな感じで淹れたい
+
+```text
+#7 イエメンのコーヒーはこんな感じで淹れたい
+Source: tilt.45 (@tilt.45)
+Profile: https://www.instagram.com/tilt.45/
+Post: https://www.instagram.com/p/DZ7JTjcRP8U/
+Posted: 2026-06-23T09:59:26.000Z
+Category: filter_recipe
+Tags: switch, yemen, filter, hybrid, recipe
+Summary: Switch recipe for Yemen coffee with open and close phases and lower first temperature to preserve origin character.
+Transcript source: Instagram caption
+
+イエメンのコーヒーはこんな感じで淹れたい
+
+ーーー今回の抽出レシピーーー
+　
+@the_mocha_lab
+Yemen The Premium Gift of Haraz 
+
+粉量 13g 総注湯量 200g 湯温 ①②88℃ ③75℃
+挽目 中粗挽（@pietrogrinders @strive_coffeeroasters #9)
+　
+①0:00-0:07 30g (open)
+②0:40-0:55 100g (open)
+③1:20-1:35 200g (close)
+2:20 open
+3:00 finish 
+
+ーーーーーーーーーーーーーー
+　
+透過と浸漬を使い分けられるスイッチだからこそできるドリップレシピ
+
+円錐でやるとコーヒーパックの嵩が増えてより複雑な味になると思うから、より複雑な味わいにしたいならそっちを選んでもいいかもね。
+
+僕の味覚ではイエメンらしさを楽しむなら程よい軽さもあったほうがいいから今回はウェーブフィルターを選んだよ。
+
+ウェーブフィルターでコーヒーベットの嵩を低くしてサクッと作ることでイエメンらしいテイストと飲みやすいバランスを両立できたので、まずはここからやってみるのがおすすめ。
+```
