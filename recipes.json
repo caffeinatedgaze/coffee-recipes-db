@@ -1,6 +1,34 @@
 [
   {
-    "entry_id": 11,
+    "entry_id": 1,
+    "source": {
+      "handle": "tilt.45",
+      "display_name": "tilt.45",
+      "profile_url": "https://www.instagram.com/tilt.45/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "Dbf-EILSzY4",
+      "post_url": "https://www.instagram.com/p/Dbf-EILSzY4/",
+      "posted_at": "2026-08-01T13:49:13Z",
+      "media_type": 2,
+      "like_count": 39,
+      "comment_count": 0
+    },
+    "title": "カフェイン、足りてる？",
+    "category": "filter_recipe",
+    "summary": "粉量 13g 総注湯量 200g 湯温90℃",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "カフェイン、足りてる？\n\nーーー今回の抽出レシピーーー\n　\n@caffeine_oasis_official\nTaiwan Alisan Songna\n\n粉量 13g 総注湯量 200g 湯温90℃ \n挽目 中挽き(Comandante 26click)\n　\n①0:00-0:10 30g\n②0:30-0:40 100g\n③1:15-1:25 130g\n④1:40-1:45 170g\n⑤2:10-2:15 200g\n2:35 finish\n\nーーーーーーーーーーーーーー\n　\n全体的にちょっと変なバランスの分配になったけどこれはこれで美味しいレシピ。酸と甘さと苦さのバランスが本当にちょうどいいこのコーヒー\n\n程よいボリュー厶の酸と甘さもあってどう淹れても美味しいと思うよ\n穏やかさのなかに潜む果実感、日常に溶け込むコーヒーだね。\n\n大阪に行く機会のある人はぜひ、カフェインオアシスにいってみて。\nとてもグッドバイブスなお店です",
+    "transcript_en": "Do you have enough caffeine?\n\n---This extraction recipe--\n　\n@caffeine_oasis_official\nTaiwan Alisan Songna\n\nPowder amount 13g Total pouring amount 200g Water temperature 90℃\nMedium grind (Comandante 26click)\n　\n①0:00-0:10 30g\n②0:30-0:40 100g\n③1:15-1:25 130g\n④1:40-1:45 170g\n⑤2:10-2:15 200g\n2:35 finish\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n　\nThe overall balance was a bit odd, but this is still a delicious recipe. This coffee has the perfect balance of acidity, sweetness, and bitterness.\n\nIt has just the right amount of acidity and sweetness, so I think it's delicious no matter how you brew it.\nIt's a coffee that blends into everyday life, with a sense of fruit hidden in its calmness.\n\nIf you have a chance to go to Osaka, be sure to visit Caffeine Oasis.\nIt's a store with very good vibes.",
+    "tags": [
+      "filter",
+      "instagram",
+      "pour-over"
+    ]
+  },
+  {
+    "entry_id": 2,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -19,7 +47,8 @@
     "category": "drink_tip",
     "summary": "Textural Americano variation that steams espresso and water into a microfoam-like drink.",
     "transcript_source": "Instagram caption",
-    "transcript": "Your Americano has entered its fluffy era.\n\nThe AIROCANO uses steamed espresso and water to create a smooth, microfoam texture, almost like an Americano and a flat white had a very caffeinated baby.\n\nIt sounds questionable. It tastes surprisingly great. You may even be able to pour a little latte art on top.\n\nTry it at home and report back. For science.\n\n#AmericanoRecipe #CoffeeTips #HomeBarista #EspressoDrink #SpecialtyCoffee",
+    "transcript_original": "Your Americano has entered its fluffy era.\n\nThe AIROCANO uses steamed espresso and water to create a smooth, microfoam texture, almost like an Americano and a flat white had a very caffeinated baby.\n\nIt sounds questionable. It tastes surprisingly great. You may even be able to pour a little latte art on top.\n\nTry it at home and report back. For science.\n\n#AmericanoRecipe #CoffeeTips #HomeBarista #EspressoDrink #SpecialtyCoffee",
+    "transcript_en": "Your Americano has entered its fluffy era.\n\nThe AIROCANO uses steamed espresso and water to create a smooth, microfoam texture, almost like an Americano and a flat white had a very caffeinated baby.\n\nIt sounds questionable. It tastes surprisingly great. You may even be able to pour a little latte art on top.\n\nTry it at home and report back. For science.\n\n#AmericanoRecipe #CoffeeTips #HomeBarista #EspressoDrink #SpecialtyCoffee",
     "tags": [
       "americano",
       "texture",
@@ -28,7 +57,7 @@
     ]
   },
   {
-    "entry_id": 1,
+    "entry_id": 3,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -47,7 +76,8 @@
     "category": "filter_recipe",
     "summary": "Thick-bodied recipe for a complex Colombian honey-process coffee, aiming at tropical fruit and texture.",
     "transcript_source": "Instagram caption",
-    "transcript": "「Granja Paraiso92 Colombia Yellow Typica DAT Honey」\n\nコロンビア南西部、カウカに位置するGranja Paraiso92のYellow Typicaをリリースします。\n\n生産者のWilton Benitez氏は先進的なプロセスを行う生産者として有名な、いわばパイオニア的存在。Granja Paraiso92の魅力は、複雑なプロセスとそこから来る味わいに詰まっています。\n\nHoneyと記載していますが、厳密には「Double Anaerobic Fermentation Thermal shock Honey」詳しいプロセスはインポーターであるHaiz coffee importさんのサイトにアクセスすれば見ることができるので、興味のある方はぜひ。\n\nここでは、このコーヒーの抽出やその先の楽しみ方にフォーカスしていきます。\n\n香り、味わい、口当たり、どれをとってもとにかく厚みのある印象。特に口当たりは素晴らしいものです。あえて酸味を集中的に狙わずとも表現できる熟したトロピカルフルーツのテイストが印象的な一杯でした。\n\nフレーバーは表現しやすいように感じたので、今回はより質感重視のとろっとほわっとレシピで淹れていきます。\n\nいい感じに淹れられると、一口目からツルッととろっとした感じのトロピカル柔らかコーヒーに仕上がります。是非試してみてください。\n\nHere is how I brew it 僕ならこう淹れる\n粉量13g / 中粗挽き(Comandante 28click) / 92℃\n0:00-0:07 30g\n0:30-0:37 60g\n1:00-1:07 90g\n1:30-1:37 120g\n1:50-1:57 150g\n2:10-2:17 200g\n2:30-2:40 finish\n\n君ならどう淹れる？\n飲んでみた感想もお待ちしています。",
+    "transcript_original": "「Granja Paraiso92 Colombia Yellow Typica DAT Honey」\n\nコロンビア南西部、カウカに位置するGranja Paraiso92のYellow Typicaをリリースします。\n\n生産者のWilton Benitez氏は先進的なプロセスを行う生産者として有名な、いわばパイオニア的存在。Granja Paraiso92の魅力は、複雑なプロセスとそこから来る味わいに詰まっています。\n\nHoneyと記載していますが、厳密には「Double Anaerobic Fermentation Thermal shock Honey」詳しいプロセスはインポーターであるHaiz coffee importさんのサイトにアクセスすれば見ることができるので、興味のある方はぜひ。\n\nここでは、このコーヒーの抽出やその先の楽しみ方にフォーカスしていきます。\n\n香り、味わい、口当たり、どれをとってもとにかく厚みのある印象。特に口当たりは素晴らしいものです。あえて酸味を集中的に狙わずとも表現できる熟したトロピカルフルーツのテイストが印象的な一杯でした。\n\nフレーバーは表現しやすいように感じたので、今回はより質感重視のとろっとほわっとレシピで淹れていきます。\n\nいい感じに淹れられると、一口目からツルッととろっとした感じのトロピカル柔らかコーヒーに仕上がります。是非試してみてください。\n\nHere is how I brew it 僕ならこう淹れる\n粉量13g / 中粗挽き(Comandante 28click) / 92℃\n0:00-0:07 30g\n0:30-0:37 60g\n1:00-1:07 90g\n1:30-1:37 120g\n1:50-1:57 150g\n2:10-2:17 200g\n2:30-2:40 finish\n\n君ならどう淹れる？\n飲んでみた感想もお待ちしています。",
+    "transcript_en": "\"Granja Paraiso92 Colombia Yellow Typica DAT Honey\"\n\nWe are releasing Yellow Typica from Granja Paraiso92 located in Cauca, southwestern Colombia.\n\nThe producer, Mr. Wilton Benitez, is famous as a producer who uses advanced processes, and is a pioneer so to speak. Granja Paraiso92's charm lies in its complex process and the flavor that comes from it.\n\nAlthough it is written as \"Honey\", strictly speaking it is \"Double Anaerobic Fermentation Thermal shock Honey\".If you are interested, you can see the detailed process by visiting the importer Haiz coffee import's website.\n\nHere, we will focus on the extraction of this coffee and how to enjoy it beyond that.\n\nThe aroma, taste, and texture all leave an impression of depth. Especially the taste is wonderful. It was an impressive cup with a taste of ripe tropical fruit that could be expressed without trying to concentrate on sourness.\n\nI felt it was easy to express the flavor, so this time I'm going to brew it with a melty and fluffy recipe that focuses more on texture.\n\nWhen brewed properly, you'll end up with a soft, tropical coffee that's smooth and smooth from the first sip. Please try it.\n\nHere is how I brew it\nPowder amount 13g / Medium coarse grind (Comandante 28click) / 92℃\n0:00-0:07 30g\n0:30-0:37 60g\n1:00-1:07 90g\n1:30-1:37 120g\n1:50-1:57 150g\n2:10-2:17 200g\n2:30-2:40 finish\n\nHow would you brew it?\nWe look forward to hearing your impressions after trying it.",
     "tags": [
       "filter",
       "pour-over",
@@ -57,7 +87,7 @@
     ]
   },
   {
-    "entry_id": 2,
+    "entry_id": 4,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -76,7 +106,8 @@
     "category": "filter_recipe",
     "summary": "Clean, acid-forward pour-over for a washed Guatemala, with slower later pours to preserve citrus clarity.",
     "transcript_source": "Instagram caption",
-    "transcript": "「Las Nubes Guatemala Bourbon Washed」\n\nグアテマラの首都からそう遠くない生産地アンティグア。火山に囲まれたこのエリアで栽培を行うPedro 氏が運営するLas Nubes。今回はBourbon種のWashedプロセスです。\n\nまずこのコーヒーを一口飲んだ時に印象的だったのは主張されすぎない柑橘類の酸質。穏やかです。すごく穏やかです。全体的にボリューム感は控えめな割に甘さと酸の印象はしっかり残る。洗練された印象を感じるコーヒーだと思います。\n\n派手なコーヒーが飲みたい、フレーバーがわかりやすいやつが飲みたい、そんな方にはこちらはあまりおすすめできませんが、とにかくクリーンで馴染んでくるようなコーヒーを求めてる方には是非おすすめさせていただきたいコーヒー。\n\nこのコーヒーの繊細な酸質を抽出でうまく表現できるなら…\n\nなので今回は酸を主体にさせるレシピで、このコーヒーのキャラクター表現を狙っていこうと思います。味わいは良い感じにクリーンになってくれると思うのであえてのガンガンいこうぜレシピで調整してみました。\n\n前半は太めのお湯でしっかり注いで後半は遅めのお湯で優しく注ぐレシピです。何なら後半は湯音を落としてもいいかもしれません \n\nHere is how I brew it 僕ならこう淹れる\n粉量13g / 中細挽き(Comandante 23click) / 92℃\n0:00-0:05 30g\n0:45-0:50 100g\n1:30-1:40 150g\n2:00-2:10 200g\n2:20-2:30 finish\n\n \n君ならどう淹れる？\n飲んでみた感想もお待ちしています。",
+    "transcript_original": "「Las Nubes Guatemala Bourbon Washed」\n\nグアテマラの首都からそう遠くない生産地アンティグア。火山に囲まれたこのエリアで栽培を行うPedro 氏が運営するLas Nubes。今回はBourbon種のWashedプロセスです。\n\nまずこのコーヒーを一口飲んだ時に印象的だったのは主張されすぎない柑橘類の酸質。穏やかです。すごく穏やかです。全体的にボリューム感は控えめな割に甘さと酸の印象はしっかり残る。洗練された印象を感じるコーヒーだと思います。\n\n派手なコーヒーが飲みたい、フレーバーがわかりやすいやつが飲みたい、そんな方にはこちらはあまりおすすめできませんが、とにかくクリーンで馴染んでくるようなコーヒーを求めてる方には是非おすすめさせていただきたいコーヒー。\n\nこのコーヒーの繊細な酸質を抽出でうまく表現できるなら…\n\nなので今回は酸を主体にさせるレシピで、このコーヒーのキャラクター表現を狙っていこうと思います。味わいは良い感じにクリーンになってくれると思うのであえてのガンガンいこうぜレシピで調整してみました。\n\n前半は太めのお湯でしっかり注いで後半は遅めのお湯で優しく注ぐレシピです。何なら後半は湯音を落としてもいいかもしれません \n\nHere is how I brew it 僕ならこう淹れる\n粉量13g / 中細挽き(Comandante 23click) / 92℃\n0:00-0:05 30g\n0:45-0:50 100g\n1:30-1:40 150g\n2:00-2:10 200g\n2:20-2:30 finish\n\n \n君ならどう淹れる？\n飲んでみた感想もお待ちしています。",
+    "transcript_en": "\"Las Nubes Guatemala Bourbon Washed\"\n\nAntigua is a production area not far from the capital of Guatemala. Las Nubes is run by Mr. Pedro, who grows in this area surrounded by volcanoes. This time it is the Washed process of the Bourbon variety.\n\nWhen I first took a sip of this coffee, what struck me was the not-too-overpowering citrus acidity. It's calm. It's very calm. Overall, the volume is modest, but the impression of sweetness and acidity remains. I think this coffee gives off a sophisticated impression.\n\nI don't really recommend this for people who want fancy coffee or something with an easy-to-understand flavor, but I definitely recommend it to people who are looking for a clean, easy-to-appeal coffee.\n\nIf the delicate acidity of this coffee can be expressed well through extraction...\n\nSo this time, I'm going to try to express the character of this coffee with a recipe that uses acid as the main ingredient. I thought the taste would be nice and clean, so I decided to make some adjustments to the recipe.\n\nThe first half of the recipe is a thick pour of hot water, and the second half is a slow pour of hot water. If anything, it might be a good idea to tone down the sound of the hot water in the second half.\n\nHere is how I brew it\nPowder amount 13g / Medium fine grind (Comandante 23click) / 92℃\n0:00-0:05 30g\n0:45-0:50 100g\n1:30-1:40 150g\n2:00-2:10 200g\n2:20-2:30 finish\n\n \nHow would you brew it?\nWe look forward to hearing your impressions after trying it.",
     "tags": [
       "filter",
       "pour-over",
@@ -86,7 +117,7 @@
     ]
   },
   {
-    "entry_id": 12,
+    "entry_id": 5,
     "source": {
       "handle": "bettr.academy",
       "display_name": "Bettr Academy",
@@ -105,7 +136,8 @@
     "category": "education",
     "summary": "Workshop promotion explaining fermentation and anaerobic coffee processes.",
     "transcript_source": "Instagram caption",
-    "transcript": "Anaerobic coffee. You’ve seen it on a bag and nodded along, right? Well this is your chance to find out all about it and MORE. \n\nTwo days with the expert Luiz Roberto Saldana, co-founder of Capricornio Coffees on how fermentation works and how to steer it. No lab coat required, just curiosity. \n\n☕️Coffee Fermentation: From Microbes to Flavour\n📅 26-27 Aug | 9am-5pm | Bettr Academy \nLink in bio.",
+    "transcript_original": "Anaerobic coffee. You’ve seen it on a bag and nodded along, right? Well this is your chance to find out all about it and MORE. \n\nTwo days with the expert Luiz Roberto Saldana, co-founder of Capricornio Coffees on how fermentation works and how to steer it. No lab coat required, just curiosity. \n\n☕️Coffee Fermentation: From Microbes to Flavour\n📅 26-27 Aug | 9am-5pm | Bettr Academy \nLink in bio.",
+    "transcript_en": "Anaerobic coffee. You’ve seen it on a bag and nodded along, right? Well this is your chance to find out all about it and MORE. \n\nTwo days with the expert Luiz Roberto Saldana, co-founder of Capricornio Coffees on how fermentation works and how to steer it. No lab coat required, just curiosity. \n\n☕️Coffee Fermentation: From Microbes to Flavour\n📅 26-27 Aug | 9am-5pm | Bettr Academy \nLink in bio.",
     "tags": [
       "fermentation",
       "anaerobic",
@@ -114,7 +146,7 @@
     ]
   },
   {
-    "entry_id": 5,
+    "entry_id": 6,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -133,7 +165,8 @@
     "category": "filter_recipe",
     "summary": "Iced coffee recipe with 320g brew, 80g ice, and optional distillate waters for a layered summer cup.",
     "transcript_source": "Instagram caption",
-    "transcript": "8月16日は蔵前 @au_riverside に集合！\n\nーーー今回の抽出レシピーーー\n　\nコーヒー\n@rikuto.co\nColombia El Paseo Caturra Washed Fermented with Enzymes\n\n蒸留水\n@shinagawadistillery\n黒文字蒸留水 / 水楢蒸留水\n\n粉量 40g 総注湯量 320g 湯温90℃ \n挽目 中細挽き\n　\n①0:00-0:10 80g\n②0:40-0:50 160g\n③1:20-1:25 240g\n④1:50-2:00 320g\n2:30 finish\n\nIce cube 80g\n\n※コーヒーは2杯分のレシピです\n\n完成したコーヒー 140g + 黒文字蒸留水 5ml\n完成したコーヒー 140g + 水楢蒸留水 10ml\n\nーーーーーーーーーーーーーー\n　\nいつものアイスコーヒーをさらにアレンジ。\n\n@shinagawadistillery さんの黒文字蒸留水と水楢蒸留水を伊藤さんに@itomito0323 僕のコーヒーに合わせてもらったよ。\n\n黒文字は日本製の伝統的なつまようじに使われる木で、水楢はいわゆるどんぐりの木。ウイスキーの熟成樽とかに使われる木だよ。\n\n今回加えたのは蒸留\"水\"なので加水するイメージでコーヒーも少し濃い目に。いつもより冷却に使う氷を減らしてその分伸ばしてるイメージで使ってみました。\n\nこのドリンクは8/16のpop-upイベントでみんなも飲めるので、気になる人はイベントにもぜひ遊びに来てね！\n\nノンアルコールメニューもあるのでコーヒーだけでも気軽にぜひ◯\n\nーーーーーー\nイベント詳細\n📅8月16日 日曜日\n⌚13:00-21:00\n📍@au_riverside\n予約不要 誰でも参加可能\nーーーーーー",
+    "transcript_original": "8月16日は蔵前 @au_riverside に集合！\n\nーーー今回の抽出レシピーーー\n　\nコーヒー\n@rikuto.co\nColombia El Paseo Caturra Washed Fermented with Enzymes\n\n蒸留水\n@shinagawadistillery\n黒文字蒸留水 / 水楢蒸留水\n\n粉量 40g 総注湯量 320g 湯温90℃ \n挽目 中細挽き\n　\n①0:00-0:10 80g\n②0:40-0:50 160g\n③1:20-1:25 240g\n④1:50-2:00 320g\n2:30 finish\n\nIce cube 80g\n\n※コーヒーは2杯分のレシピです\n\n完成したコーヒー 140g + 黒文字蒸留水 5ml\n完成したコーヒー 140g + 水楢蒸留水 10ml\n\nーーーーーーーーーーーーーー\n　\nいつものアイスコーヒーをさらにアレンジ。\n\n@shinagawadistillery さんの黒文字蒸留水と水楢蒸留水を伊藤さんに@itomito0323 僕のコーヒーに合わせてもらったよ。\n\n黒文字は日本製の伝統的なつまようじに使われる木で、水楢はいわゆるどんぐりの木。ウイスキーの熟成樽とかに使われる木だよ。\n\n今回加えたのは蒸留\"水\"なので加水するイメージでコーヒーも少し濃い目に。いつもより冷却に使う氷を減らしてその分伸ばしてるイメージで使ってみました。\n\nこのドリンクは8/16のpop-upイベントでみんなも飲めるので、気になる人はイベントにもぜひ遊びに来てね！\n\nノンアルコールメニューもあるのでコーヒーだけでも気軽にぜひ◯\n\nーーーーーー\nイベント詳細\n📅8月16日 日曜日\n⌚13:00-21:00\n📍@au_riverside\n予約不要 誰でも参加可能\nーーーーーー",
+    "transcript_en": "Gather at Kuramae @au_riverside on August 16th!\n\n---This extraction recipe--\n　\ncoffee\n@rikuto.co\nColombia El Paseo Caturra Washed Fermented with Enzymes\n\ndistilled water\n@shinagawadistillery\nKuromoji Distilled Water/MizuNara Distilled Water\n\nPowder amount 40g Total pouring amount 320g Water temperature 90℃\nMedium-fine grind\n　\n①0:00-0:10 80g\n②0:40-0:50 160g\n③1:20-1:25 240g\n④1:50-2:00 320g\n2:30 finish\n\nIce cube 80g\n\n*The recipe is for 2 cups of coffee.\n\nFinished coffee 140g + Kuromoji distilled water 5ml\n140g finished coffee + 10ml MizuNara distilled water\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n　\nA new twist on your regular iced coffee.\n\n@itomito0323 I asked Mr. Ito to pair @itomito0323's Kuromoji distilled water and Mizunara distilled water from @shinagawadistillery with my coffee.\n\nKuromonji is the tree used for traditional Japanese toothpicks, and Mizu-Nara is the so-called acorn tree. This is the wood used for things like whiskey aging barrels.\n\nWhat I added this time was distilled water, so I imagined adding water to make the coffee a little stronger. I tried using it with the image of using less ice for cooling than usual and stretching it by that amount.\n\nThis drink will be available for everyone to enjoy at the pop-up event on August 16th, so if you are interested, please come and visit us at the event!\n\nWe also have a non-alcoholic menu, so feel free to just have coffee◯\n\n---\nEvent details\n📅Sunday, August 16th\n⌚13:00-21:00\n📍@au_riverside\nNo reservation required, anyone can participate\n---",
     "tags": [
       "iced",
       "filter",
@@ -143,7 +176,7 @@
     ]
   },
   {
-    "entry_id": 3,
+    "entry_id": 7,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -162,7 +195,8 @@
     "category": "filter_recipe",
     "summary": "Coarse-grind home brew for a blonde-roast Indonesian blend; front-loaded pours for sweetness and bright character.",
     "transcript_source": "Instagram caption",
-    "transcript": "お家でスターバックス、やってみて\n\nーーー今回の抽出レシピーーー\n　\n@starbucks_j\nSmatra Masa Depan\n\n粉量 20g 総注湯量 300g 湯温90℃ \n挽目 粗挽き\n　\n①0:00-0:10 50g\n②0:40-0:50 100g\n③1:20-1:30 150g \n④1:45-1:55 200g\n⑤2:10-2:17 300g \n2:50 finish \n\nーーーーーーーーーーーーーー\n　\nブロンドローストのトロッとした質感とあまさを表現するための粗挽き、\nそこからしっかりキャラクターとなる明るい味わいを\n引き出すための前半多投レシピだよ。\n\nインドネシアのコーヒー、個人的には結構好きで今まで色々飲んでたけれど\nこのスマトラ マサ デパンもしっかりインドネシアテイストが感じられて\nかなり好みだった。\n\nちなみにこのコーヒーはナチュラルとウォッシュトのブレンドらしい。\n果実感とクリーンなニュアンスの両立はプロセスのブレンドから来てるんだね。\n\nみんなも近くのスターバックスで買えるはずなので、\n是非家でコーヒー淹れてみてね\n#PR #スターバックス",
+    "transcript_original": "お家でスターバックス、やってみて\n\nーーー今回の抽出レシピーーー\n　\n@starbucks_j\nSmatra Masa Depan\n\n粉量 20g 総注湯量 300g 湯温90℃ \n挽目 粗挽き\n　\n①0:00-0:10 50g\n②0:40-0:50 100g\n③1:20-1:30 150g \n④1:45-1:55 200g\n⑤2:10-2:17 300g \n2:50 finish \n\nーーーーーーーーーーーーーー\n　\nブロンドローストのトロッとした質感とあまさを表現するための粗挽き、\nそこからしっかりキャラクターとなる明るい味わいを\n引き出すための前半多投レシピだよ。\n\nインドネシアのコーヒー、個人的には結構好きで今まで色々飲んでたけれど\nこのスマトラ マサ デパンもしっかりインドネシアテイストが感じられて\nかなり好みだった。\n\nちなみにこのコーヒーはナチュラルとウォッシュトのブレンドらしい。\n果実感とクリーンなニュアンスの両立はプロセスのブレンドから来てるんだね。\n\nみんなも近くのスターバックスで買えるはずなので、\n是非家でコーヒー淹れてみてね\n#PR #スターバックス",
+    "transcript_en": "Try Starbucks at home\n\n---This extraction recipe--\n　\n@starbucks_j\nSmatra Masa Depan\n\nPowder amount 20g Total pouring amount 300g Water temperature 90℃\nCoarse grind\n　\n①0:00-0:10 50g\n②0:40-0:50 100g\n③1:20-1:30 150g\n④1:45-1:55 200g\n⑤2:10-2:17 300g\n2:50 finish\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n　\nCoarsely ground to express the smooth texture and sweetness of blonde roast.\nFrom there, the bright taste becomes a distinct character.\nIt's a recipe for multiple throws in the first half to bring out the enemy.\n\nPersonally, I quite like Indonesian coffee, and I've had a lot of it before.\nThis Sumatra Masa Depan also has a distinct Indonesian taste.\nI quite liked it.\n\nBy the way, this coffee seems to be a blend of natural and washed coffee.\nThe combination of fruitiness and clean nuances comes from the blending process.\n\nEveryone should be able to buy it at their local Starbucks.\nPlease try making coffee at home.\n#PR #Starbucks",
     "tags": [
       "filter",
       "drip",
@@ -172,7 +206,7 @@
     ]
   },
   {
-    "entry_id": 9,
+    "entry_id": 8,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "Specialty Coffee Association",
@@ -191,7 +225,8 @@
     "category": "gear",
     "summary": "SCA home brewer post with temperature range and brew-profile notes for GE drip coffee makers.",
     "transcript_source": "Instagram caption",
-    "transcript": "Meet two new additions to the SCA Certified Home Brewers list:\n\n☕ GE Café Specialty Drip Coffee Maker — 2-10 cup settings with light, medium, and bold flavor profiles; brews at 185-205°F with a vacuum carafe that holds heat up to 2 hours. (@geappliances)\n\n☕ GE Café Specialty Drip Coffee Maker with Glass Carafe — same brew controls and temperature range, paired with a glass carafe and warming plate that holds heat up to 2 hours. (@geappliances)\n\nExplore the full list of Certified Home Brewers at sca.coffee/certified-home-brewer",
+    "transcript_original": "Meet two new additions to the SCA Certified Home Brewers list:\n\n☕ GE Café Specialty Drip Coffee Maker — 2-10 cup settings with light, medium, and bold flavor profiles; brews at 185-205°F with a vacuum carafe that holds heat up to 2 hours. (@geappliances)\n\n☕ GE Café Specialty Drip Coffee Maker with Glass Carafe — same brew controls and temperature range, paired with a glass carafe and warming plate that holds heat up to 2 hours. (@geappliances)\n\nExplore the full list of Certified Home Brewers at sca.coffee/certified-home-brewer",
+    "transcript_en": "Meet two new additions to the SCA Certified Home Brewers list:\n\n☕ GE Café Specialty Drip Coffee Maker — 2-10 cup settings with light, medium, and bold flavor profiles; brews at 185-205°F with a vacuum carafe that holds heat up to 2 hours. (@geappliances)\n\n☕ GE Café Specialty Drip Coffee Maker with Glass Carafe — same brew controls and temperature range, paired with a glass carafe and warming plate that holds heat up to 2 hours. (@geappliances)\n\nExplore the full list of Certified Home Brewers at sca.coffee/certified-home-brewer",
     "tags": [
       "home-brewer",
       "gear",
@@ -200,7 +235,7 @@
     ]
   },
   {
-    "entry_id": 10,
+    "entry_id": 9,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -219,7 +254,8 @@
     "category": "drink_tip",
     "summary": "Tasting tip arguing that removing crema from an Americano can improve sweetness, brightness, and clarity.",
     "transcript_source": "Instagram caption",
-    "transcript": "Coffee hot take: your Americano might taste better without the crema. ☕️\n\nRemoving that top layer can bring out more sweetness, brightness, and clarity with less bitterness. Try it side by side and taste the difference for yourself.\n\n#AmericanoCoffee #EspressoTips #SpecialtyCoffee #CoffeeEducation #SpringfieldCoffee",
+    "transcript_original": "Coffee hot take: your Americano might taste better without the crema. ☕️\n\nRemoving that top layer can bring out more sweetness, brightness, and clarity with less bitterness. Try it side by side and taste the difference for yourself.\n\n#AmericanoCoffee #EspressoTips #SpecialtyCoffee #CoffeeEducation #SpringfieldCoffee",
+    "transcript_en": "Coffee hot take: your Americano might taste better without the crema. ☕️\n\nRemoving that top layer can bring out more sweetness, brightness, and clarity with less bitterness. Try it side by side and taste the difference for yourself.\n\n#AmericanoCoffee #EspressoTips #SpecialtyCoffee #CoffeeEducation #SpringfieldCoffee",
     "tags": [
       "americano",
       "crema",
@@ -228,7 +264,7 @@
     ]
   },
   {
-    "entry_id": 13,
+    "entry_id": 10,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "First Crack Coffee",
@@ -247,7 +283,8 @@
     "category": "education",
     "summary": "Coffee class promo emphasizing hands-on learning, questions, and technique practice.",
     "transcript_source": "Instagram caption",
-    "transcript": "We had such a great time hosting our recent coffee class and loved seeing everyone ask questions, practice new techniques, and connect over a shared love of coffee. We’re already looking forward to bringing more hands-on learning opportunities to the lab.\n\nWhat would you love to learn about at a future coffee class? Share your ideas below and tag someone you’d bring with you. Your feedback may help inspire what we offer next!\n\n#CoffeeClass #CoffeeEducation #SpecialtyCoffee #HomeBarista #RochesterNY",
+    "transcript_original": "We had such a great time hosting our recent coffee class and loved seeing everyone ask questions, practice new techniques, and connect over a shared love of coffee. We’re already looking forward to bringing more hands-on learning opportunities to the lab.\n\nWhat would you love to learn about at a future coffee class? Share your ideas below and tag someone you’d bring with you. Your feedback may help inspire what we offer next!\n\n#CoffeeClass #CoffeeEducation #SpecialtyCoffee #HomeBarista #RochesterNY",
+    "transcript_en": "We had such a great time hosting our recent coffee class and loved seeing everyone ask questions, practice new techniques, and connect over a shared love of coffee. We’re already looking forward to bringing more hands-on learning opportunities to the lab.\n\nWhat would you love to learn about at a future coffee class? Share your ideas below and tag someone you’d bring with you. Your feedback may help inspire what we offer next!\n\n#CoffeeClass #CoffeeEducation #SpecialtyCoffee #HomeBarista #RochesterNY",
     "tags": [
       "class",
       "education",
@@ -256,7 +293,139 @@
     ]
   },
   {
-    "entry_id": 8,
+    "entry_id": 11,
+    "source": {
+      "handle": "brickandmortarcoffee",
+      "display_name": "brickandmortarcoffee",
+      "profile_url": "https://www.instagram.com/brickandmortarcoffee/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "Da28HBID6a0",
+      "post_url": "https://www.instagram.com/p/Da28HBID6a0/",
+      "posted_at": "2026-07-16T15:15:46Z",
+      "media_type": 2,
+      "like_count": 23,
+      "comment_count": 0
+    },
+    "title": "James Hoffman made us rethink the Americano.",
+    "category": "drink_tip",
+    "summary": "So we made our own version.😎☕️ #SpringfieldMOcoffee #MissouriCoffeeShop #SpecialtyCoffee #CoffeeShop #Americano",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "James Hoffman made us rethink the Americano.\n\nSo we made our own version.😎☕️\n\n#SpringfieldMOcoffee #MissouriCoffeeShop #SpecialtyCoffee #CoffeeShop #Americano",
+    "transcript_en": "James Hoffman made us rethink the Americano.\n\nSo we made our own version.😎☕️\n\n#SpringfieldMOcoffee #MissouriCoffeeShop #SpecialtyCoffee #CoffeeShop #Americano",
+    "tags": [
+      "americano",
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 12,
+    "source": {
+      "handle": "bettr.academy",
+      "display_name": "bettr.academy",
+      "profile_url": "https://www.instagram.com/bettr.academy/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "Da1_0WavRYr",
+      "post_url": "https://www.instagram.com/p/Da1_0WavRYr/",
+      "posted_at": "2026-07-16T06:29:22Z",
+      "media_type": 2,
+      "like_count": 19,
+      "comment_count": 0
+    },
+    "title": "How our SIGEP has been going. Feeling FOMO? There’s still time to drop by our booth at SIGEP Asia!",
+    "category": "education",
+    "summary": "📍Marina Bay Sands Expo & Convention Centre, Hall C, Booth D05 *Our workshops are at Level 4 Melati 4111",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "How our SIGEP has been going. Feeling FOMO? There’s still time to drop by our booth at SIGEP Asia! \n\n📍Marina Bay Sands Expo & Convention Centre, Hall C, Booth D05 \n\n*Our workshops are at Level 4 Melati 4111\n\n#SIGEP #specialitycoffee #fyp #xyzbca",
+    "transcript_en": "How our SIGEP has been going. Feeling FOMO? There’s still time to drop by our booth at SIGEP Asia! \n\n📍Marina Bay Sands Expo & Convention Centre, Hall C, Booth D05 \n\n*Our workshops are at Level 4 Melati 4111\n\n#SIGEP #specialitycoffee #fyp #xyzbca",
+    "tags": [
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 13,
+    "source": {
+      "handle": "bettr.academy",
+      "display_name": "bettr.academy",
+      "profile_url": "https://www.instagram.com/bettr.academy/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DazTculJmI6",
+      "post_url": "https://www.instagram.com/p/DazTculJmI6/",
+      "posted_at": "2026-07-15T05:24:27Z",
+      "media_type": 2,
+      "like_count": 12,
+      "comment_count": 0
+    },
+    "title": "Registered for a Bettr workshop? This is how you get there! All our workshops will be at Level 4 Melati 4111, see you th",
+    "category": "education",
+    "summary": "#bettracademy #specialtycoffee #sigep #fyp #howto",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "Registered for a Bettr workshop? This is how you get there! All our workshops will be at Level 4 Melati 4111, see you there! \n\n#bettracademy #specialtycoffee #sigep #fyp #howto",
+    "transcript_en": "Registered for a Bettr workshop? This is how you get there! All our workshops will be at Level 4 Melati 4111, see you there! \n\n#bettracademy #specialtycoffee #sigep #fyp #howto",
+    "tags": [
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 14,
+    "source": {
+      "handle": "bettr.academy",
+      "display_name": "bettr.academy",
+      "profile_url": "https://www.instagram.com/bettr.academy/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DazLDIkPtRY",
+      "post_url": "https://www.instagram.com/p/DazLDIkPtRY/",
+      "posted_at": "2026-07-15T04:11:31Z",
+      "media_type": 2,
+      "like_count": 30,
+      "comment_count": 0
+    },
+    "title": "It’s DAY 1 of SIGEP 🚨 See you at our Booth on Level 1!",
+    "category": "education",
+    "summary": "If you’ve signed up for our workshops, remember to take the lift up to LEVEL 4 to find the Meeting Room Melati 4111. Keep a lookout for the next video that will show you how to get there! #SIGEP #specialitycoffee #fyp #xyzbca #socialenterpr",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "It’s DAY 1 of SIGEP 🚨 See you at our Booth on Level 1!\n\nIf you’ve signed up for our workshops, remember to take the lift up to LEVEL 4 to find the Meeting Room Melati 4111. Keep a lookout for the next video that will show you how to get there! \n\n #SIGEP #specialitycoffee #fyp #xyzbca #socialenterprise",
+    "transcript_en": "It’s DAY 1 of SIGEP 🚨 See you at our Booth on Level 1!\n\nIf you’ve signed up for our workshops, remember to take the lift up to LEVEL 4 to find the Meeting Room Melati 4111. Keep a lookout for the next video that will show you how to get there! \n\n #SIGEP #specialitycoffee #fyp #xyzbca #socialenterprise",
+    "tags": [
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 15,
+    "source": {
+      "handle": "brickandmortarcoffee",
+      "display_name": "brickandmortarcoffee",
+      "profile_url": "https://www.instagram.com/brickandmortarcoffee/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DalNgOgjdW6",
+      "post_url": "https://www.instagram.com/p/DalNgOgjdW6/",
+      "posted_at": "2026-07-09T18:01:14Z",
+      "media_type": 2,
+      "like_count": 82,
+      "comment_count": 5
+    },
+    "title": "We have a bone to pick with James Hoffman.",
+    "category": "drink_tip",
+    "summary": "The Americano is a classic, but we started playing around with a new version… and now we can’t go back. Meet the Airocano, smoother, softer, and a little more fun.",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "We have a bone to pick with James Hoffman.\n\nThe Americano is a classic, but we started playing around with a new version… and now we can’t go back.\n\nMeet the Airocano, smoother, softer, and a little more fun.\n\nAmericano lovers, this one’s for you.\n\n#SpringfieldMOcoffee #MissouriCoffeeShop #SpecialtyCoffee #CoffeeShop #Americano",
+    "transcript_en": "We have a bone to pick with James Hoffman.\n\nThe Americano is a classic, but we started playing around with a new version… and now we can’t go back.\n\nMeet the Airocano, smoother, softer, and a little more fun.\n\nAmericano lovers, this one’s for you.\n\n#SpringfieldMOcoffee #MissouriCoffeeShop #SpecialtyCoffee #CoffeeShop #Americano",
+    "tags": [
+      "americano",
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 16,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "It’s Just Coffee Podcast",
@@ -275,7 +444,8 @@
     "category": "tasting",
     "summary": "Short tasting-language primer about sweetness, acidity, bitterness, comparison tasting, and using simple descriptors first.",
     "transcript_source": "Instagram caption",
-    "transcript": "COFFEE TASTING BASICS\n\nStart with how we taste\nThe basics of sweetness, acidity and bitterness.\n\nUse the flavour wheel\nStart broad before chasing exact flavours.\n\nBuild a common language\nFind simple words you can return to.\n\nTaste in comparison\nTry coffees side by side.\n\nDescribe it to someone else\nSaying it out loud helps lock it in.\n\nYou do not need to find “strawberry cordial with a roasted hazelnut finish” straight away.\nFruity is a great start. Sweet is a great start. Build the language, then build the detail. \n\nFULL EP LIVE WITH SO MUCH MORE!\n\n@raulitobarista\n@paradigmacoffee\n\nWorld Barista Champion Explains the Perfect Espresso !",
+    "transcript_original": "COFFEE TASTING BASICS\n\nStart with how we taste\nThe basics of sweetness, acidity and bitterness.\n\nUse the flavour wheel\nStart broad before chasing exact flavours.\n\nBuild a common language\nFind simple words you can return to.\n\nTaste in comparison\nTry coffees side by side.\n\nDescribe it to someone else\nSaying it out loud helps lock it in.\n\nYou do not need to find “strawberry cordial with a roasted hazelnut finish” straight away.\nFruity is a great start. Sweet is a great start. Build the language, then build the detail. \n\nFULL EP LIVE WITH SO MUCH MORE!\n\n@raulitobarista\n@paradigmacoffee\n\nWorld Barista Champion Explains the Perfect Espresso !",
+    "transcript_en": "COFFEE TASTING BASICS\n\nStart with how we taste\nThe basics of sweetness, acidity and bitterness.\n\nUse the flavour wheel\nStart broad before chasing exact flavours.\n\nBuild a common language\nFind simple words you can return to.\n\nTaste in comparison\nTry coffees side by side.\n\nDescribe it to someone else\nSaying it out loud helps lock it in.\n\nYou do not need to find “strawberry cordial with a roasted hazelnut finish” straight away.\nFruity is a great start. Sweet is a great start. Build the language, then build the detail. \n\nFULL EP LIVE WITH SO MUCH MORE!\n\n@raulitobarista\n@paradigmacoffee\n\nWorld Barista Champion Explains the Perfect Espresso !",
     "tags": [
       "tasting",
       "flavor-wheel",
@@ -284,7 +454,7 @@
     ]
   },
   {
-    "entry_id": 4,
+    "entry_id": 17,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -303,7 +473,8 @@
     "category": "filter_recipe",
     "summary": "Washed Ethiopian recipe using a slightly coarser grind and a small bypass to adjust concentration.",
     "transcript_source": "Instagram caption",
-    "transcript": "エチオピアｧｧｧｧｧｧって味、いいよね\n\nーーー今回の抽出レシピーーー\n　\n@rikuto.co\nEthiopia Goro Bedessa WS Heiroom Washed\n\n粉量 13g 総注湯量 200g 湯温90℃ \n挽目 中挽（@comandantegrinder 26clicks)\n　\n①0:00-0:10 40g\n②0:40-0:47 120g\n③1:20-1:27 160g \n④1:50-2:00 200g\n2:40 finish \n\n(今回は落ちきらなかったので少し加水して濃度調整)\n\nーーーーーーーーーーーーーー\n　\n綺麗めのエチオピアウォッシュト、常においておきたいよね。\nコーヒー屋さんに行っても迷ったらとりあえず頼んじゃうかも。\n\n前回の酸味ギュンギュンレシピとはまた違ったフローラルさと明るい甘さを楽しみたかったから、今回はちょい粗×長時間抽出をベースに、酸味の印象を引き上げるために一投目の量を少し増やした状態で調整してみたよ。\n\nとにかく綺麗で華やかなエチオピアウォッシュト\nフローラルで甘い香りが特徴の綺麗めコーヒーだよ。\nオンラインストアにもまだ若干のこってるけど今回で一旦今の生豆在庫は終了。\nまた次の入荷は未定だから気になる人はぜひ[rikuto.co]をチェック🔥",
+    "transcript_original": "エチオピアｧｧｧｧｧｧって味、いいよね\n\nーーー今回の抽出レシピーーー\n　\n@rikuto.co\nEthiopia Goro Bedessa WS Heiroom Washed\n\n粉量 13g 総注湯量 200g 湯温90℃ \n挽目 中挽（@comandantegrinder 26clicks)\n　\n①0:00-0:10 40g\n②0:40-0:47 120g\n③1:20-1:27 160g \n④1:50-2:00 200g\n2:40 finish \n\n(今回は落ちきらなかったので少し加水して濃度調整)\n\nーーーーーーーーーーーーーー\n　\n綺麗めのエチオピアウォッシュト、常においておきたいよね。\nコーヒー屋さんに行っても迷ったらとりあえず頼んじゃうかも。\n\n前回の酸味ギュンギュンレシピとはまた違ったフローラルさと明るい甘さを楽しみたかったから、今回はちょい粗×長時間抽出をベースに、酸味の印象を引き上げるために一投目の量を少し増やした状態で調整してみたよ。\n\nとにかく綺麗で華やかなエチオピアウォッシュト\nフローラルで甘い香りが特徴の綺麗めコーヒーだよ。\nオンラインストアにもまだ若干のこってるけど今回で一旦今の生豆在庫は終了。\nまた次の入荷は未定だから気になる人はぜひ[rikuto.co]をチェック🔥",
+    "transcript_en": "Ethiopian food tastes good, isn't it?\n\n---This extraction recipe--\n　\n@rikuto.co\nEthiopia Goro Bedessa WS Heiroom Washed\n\nPowder amount 13g Total pouring amount 200g Water temperature 90℃\nMedium grind (@comandantegrinder 26clicks)\n　\n①0:00-0:10 40g\n②0:40-0:47 120g\n③1:20-1:27 160g\n④1:50-2:00 200g\n2:40 finish\n\n(This time it didn't fall completely, so I added a little water to adjust the concentration)\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n　\nYou'll want to always have a clean Ethiopian wash.\nIf I can't decide when I go to a coffee shop, I might just order something.\n\nI wanted to enjoy a different floral and bright sweetness from the previous Sour Gyun Gyun recipe, so this time I used a slightly coarser and longer extraction method, and slightly increased the amount of the first shot to enhance the impression of sourness.\n\nAnyway, beautiful and gorgeous Ethiopian wash\nIt's a beautiful coffee with a floral and sweet aroma.\nThere are still some items in the online store, but this time, the current stock of raw beans has ended.\nAlso, the next arrival is undecided, so if you are interested, please check out [rikuto.co] 🔥",
     "tags": [
       "filter",
       "ethiopia",
@@ -313,7 +484,34 @@
     ]
   },
   {
-    "entry_id": 6,
+    "entry_id": 18,
+    "source": {
+      "handle": "itsjustcoffeepodcast",
+      "display_name": "itsjustcoffeepodcast",
+      "profile_url": "https://www.instagram.com/itsjustcoffeepodcast/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DaJ7rACAG7R",
+      "post_url": "https://www.instagram.com/p/DaJ7rACAG7R/",
+      "posted_at": "2026-06-29T03:46:18Z",
+      "media_type": 2,
+      "like_count": 310,
+      "comment_count": 6
+    },
+    "title": "Sooo how many of these predictions did we actually get right?",
+    "category": "gear",
+    "summary": "Are you choosing blends or single O? This is from our episode with Brewers Cup Champion Elysia Tan. She also dished up some killer tips on how to brew like a pro.",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "Sooo how many of these predictions did we actually get right?\n\nAre you choosing blends or single O? \n\nThis is from our episode with Brewers Cup Champion Elysia Tan. She also dished up some killer tips on how to brew like a pro. \n\nListen now on YouTube or wherever you get your podcasts, and stay tuned for more World of Coffee content!\n\n@worldofcoffeeeurope\n@elysiaholmes\n\n#worldofcoffee #specialtycoffee #coffeeindustry #wocbrussels #brewerscup #itsjustcoffeepodcast",
+    "transcript_en": "Sooo how many of these predictions did we actually get right?\n\nAre you choosing blends or single O? \n\nThis is from our episode with Brewers Cup Champion Elysia Tan. She also dished up some killer tips on how to brew like a pro. \n\nListen now on YouTube or wherever you get your podcasts, and stay tuned for more World of Coffee content!\n\n@worldofcoffeeeurope\n@elysiaholmes\n\n#worldofcoffee #specialtycoffee #coffeeindustry #wocbrussels #brewerscup #itsjustcoffeepodcast",
+    "tags": [
+      "brew",
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 19,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -332,7 +530,8 @@
     "category": "filter_recipe",
     "summary": "Hybrid Switch recipe for a fermented natural, using open and close stages to balance structure and fermentation.",
     "transcript_source": "Instagram caption",
-    "transcript": "オレッチはこう淹れる\n\nーーー今回の抽出レシピーーー\n　\n@brewmethods\nColombia Las Flores Java Natural\n\n粉量 13g 総注湯量 200g 湯温 ①②90℃ ③75℃\n挽目 中粗挽（@comandantegrinder 28clicks)\n　\n①0:00-0:07 30g (open)\n②0:40-0:47 90g (open)\n③1:20-1:27 200g (close)\n2:00 open\n2:25 finish \n\nーーーーーーーーーーーーーー\n　\n今回もスイッチを使ったハイブリッドメソッド\n\nなんだけども付けるドリッパーはフラットボトムドリッパーのオレア\n\nコーヒーベットを低くした上でスイッチ機能を使えるからバチバチ発酵系のコーヒーにはすごく向いてるんじゃないかな。\n\nいつもとほとんど同じレシピで発酵系のコーヒーをバランスよく淹れられるから結構重宝しそう。\n\n近日中に日本でもリリースされるらしいからぜひゲットして試してみてね",
+    "transcript_original": "オレッチはこう淹れる\n\nーーー今回の抽出レシピーーー\n　\n@brewmethods\nColombia Las Flores Java Natural\n\n粉量 13g 総注湯量 200g 湯温 ①②90℃ ③75℃\n挽目 中粗挽（@comandantegrinder 28clicks)\n　\n①0:00-0:07 30g (open)\n②0:40-0:47 90g (open)\n③1:20-1:27 200g (close)\n2:00 open\n2:25 finish \n\nーーーーーーーーーーーーーー\n　\n今回もスイッチを使ったハイブリッドメソッド\n\nなんだけども付けるドリッパーはフラットボトムドリッパーのオレア\n\nコーヒーベットを低くした上でスイッチ機能を使えるからバチバチ発酵系のコーヒーにはすごく向いてるんじゃないかな。\n\nいつもとほとんど同じレシピで発酵系のコーヒーをバランスよく淹れられるから結構重宝しそう。\n\n近日中に日本でもリリースされるらしいからぜひゲットして試してみてね",
+    "transcript_en": "This is how to brew Orecchi\n\n---This extraction recipe--\n　\n@brewmethods\nColombia Las Flores Java Natural\n\nPowder amount 13g Total pouring amount 200g Water temperature ①②90℃ ③75℃\nMedium coarse grind (@comandantegrinder 28clicks)\n　\n①0:00-0:07 30g (open)\n②0:40-0:47 90g (open)\n③1:20-1:27 200g (close)\n2:00 open\n2:25 finish\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n　\nHybrid method using a switch this time too\n\nThe dripper I use is Olea, a flat bottom dripper.\n\nSince you can use the switch function while lowering the coffee bed, I think it is very suitable for highly fermented coffee.\n\nIt seems to be quite useful because you can make well-balanced fermented coffee using almost the same recipe as usual.\n\nIt looks like it will be released in Japan soon, so be sure to get it and give it a try.",
     "tags": [
       "switch",
       "hybrid",
@@ -342,7 +541,35 @@
     ]
   },
   {
-    "entry_id": 7,
+    "entry_id": 20,
+    "source": {
+      "handle": "itsjustcoffeepodcast",
+      "display_name": "itsjustcoffeepodcast",
+      "profile_url": "https://www.instagram.com/itsjustcoffeepodcast/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DaCipRxD96k",
+      "post_url": "https://www.instagram.com/p/DaCipRxD96k/",
+      "posted_at": "2026-06-26T06:53:01Z",
+      "media_type": 2,
+      "like_count": 799,
+      "comment_count": 16
+    },
+    "title": "STOP BUYING DRIPPERS. BUY FILTER PAPER!",
+    "category": "gear",
+    "summary": "Most people think the dripper is doing all the work. But filter paper can completely change the cup.",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "STOP BUYING DRIPPERS. BUY FILTER PAPER!\n\nMost people think the dripper is doing all the work.\n\nBut filter paper can completely change the cup.\n\nCafec has three papers that are worth knowing:\n\nT90 is the safe middle ground. Balanced, easy, hard to mess up.\n\nT83 gives you more body.\n\nT92 slows things down for a cleaner cup with more flavour clarity. Perfect for darker roasts or those super funky anaerobics that need a little calming down.\n\nBefore you buy your fifth dripper, try changing the paper.\n\nSave the money. Spend it on coffee you actually want to brew.\n\nWhat paper are you using at the moment? 👇\n\n@elysiaholmes\n@cafec_japan\n\n#coffee #filtercoffee #coffeetips #homebarista #specialtycoffee #cafec",
+    "transcript_en": "STOP BUYING DRIPPERS. BUY FILTER PAPER!\n\nMost people think the dripper is doing all the work.\n\nBut filter paper can completely change the cup.\n\nCafec has three papers that are worth knowing:\n\nT90 is the safe middle ground. Balanced, easy, hard to mess up.\n\nT83 gives you more body.\n\nT92 slows things down for a cleaner cup with more flavour clarity. Perfect for darker roasts or those super funky anaerobics that need a little calming down.\n\nBefore you buy your fifth dripper, try changing the paper.\n\nSave the money. Spend it on coffee you actually want to brew.\n\nWhat paper are you using at the moment? 👇\n\n@elysiaholmes\n@cafec_japan\n\n#coffee #filtercoffee #coffeetips #homebarista #specialtycoffee #cafec",
+    "tags": [
+      "brew",
+      "fermentation",
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 21,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -361,13 +588,40 @@
     "category": "filter_recipe",
     "summary": "Switch recipe for Yemen coffee with open and close phases and lower first temperature to preserve origin character.",
     "transcript_source": "Instagram caption",
-    "transcript": "イエメンのコーヒーはこんな感じで淹れたい\n\nーーー今回の抽出レシピーーー\n　\n@the_mocha_lab\nYemen The Premium Gift of Haraz \n\n粉量 13g 総注湯量 200g 湯温 ①②88℃ ③75℃\n挽目 中粗挽（@pietrogrinders @strive_coffeeroasters #9)\n　\n①0:00-0:07 30g (open)\n②0:40-0:55 100g (open)\n③1:20-1:35 200g (close)\n2:20 open\n3:00 finish \n\nーーーーーーーーーーーーーー\n　\n透過と浸漬を使い分けられるスイッチだからこそできるドリップレシピ\n\n円錐でやるとコーヒーパックの嵩が増えてより複雑な味になると思うから、より複雑な味わいにしたいならそっちを選んでもいいかもね。\n\n僕の味覚ではイエメンらしさを楽しむなら程よい軽さもあったほうがいいから今回はウェーブフィルターを選んだよ。\n\nウェーブフィルターでコーヒーベットの嵩を低くしてサクッと作ることでイエメンらしいテイストと飲みやすいバランスを両立できたので、まずはここからやってみるのがおすすめ。",
+    "transcript_original": "イエメンのコーヒーはこんな感じで淹れたい\n\nーーー今回の抽出レシピーーー\n　\n@the_mocha_lab\nYemen The Premium Gift of Haraz \n\n粉量 13g 総注湯量 200g 湯温 ①②88℃ ③75℃\n挽目 中粗挽（@pietrogrinders @strive_coffeeroasters #9)\n　\n①0:00-0:07 30g (open)\n②0:40-0:55 100g (open)\n③1:20-1:35 200g (close)\n2:20 open\n3:00 finish \n\nーーーーーーーーーーーーーー\n　\n透過と浸漬を使い分けられるスイッチだからこそできるドリップレシピ\n\n円錐でやるとコーヒーパックの嵩が増えてより複雑な味になると思うから、より複雑な味わいにしたいならそっちを選んでもいいかもね。\n\n僕の味覚ではイエメンらしさを楽しむなら程よい軽さもあったほうがいいから今回はウェーブフィルターを選んだよ。\n\nウェーブフィルターでコーヒーベットの嵩を低くしてサクッと作ることでイエメンらしいテイストと飲みやすいバランスを両立できたので、まずはここからやってみるのがおすすめ。",
+    "transcript_en": "This is how I want to brew Yemeni coffee.\n\n---This extraction recipe--\n　\n@the_mocha_lab\nYemen The Premium Gift of Haraz\n\nPowder amount 13g Total pouring amount 200g Water temperature ①②88℃ ③75℃\nMedium coarse grind (@pietrogrinders @strive_coffeeroasters #9)\n　\n①0:00-0:07 30g (open)\n②0:40-0:55 100g (open)\n③1:20-1:35 200g (close)\n2:20 open\n3:00 finish\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n　\nDrip recipes that can only be made with a switch that can use transmission and immersion\n\nI think that if you use a cone, the bulk of the coffee bag will increase and the flavor will be more complex, so if you want a more complex flavor, you may want to choose that.\n\nTo my taste, if you want to enjoy the Yemeni flavor, it's better to have just the right amount of lightness, so this time I chose a wave filter.\n\nBy using a wave filter to reduce the bulk of the coffee bed and make it crisp, we were able to achieve both a Yemeni taste and an easy-to-drink balance, so we recommend trying this first.",
     "tags": [
       "switch",
       "yemen",
       "filter",
       "hybrid",
       "recipe"
+    ]
+  },
+  {
+    "entry_id": 22,
+    "source": {
+      "handle": "first.crack.coffee",
+      "display_name": "first.crack.coffee",
+      "profile_url": "https://www.instagram.com/first.crack.coffee/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DKcWGNrxixs",
+      "post_url": "https://www.instagram.com/p/DKcWGNrxixs/",
+      "posted_at": "2025-06-03T15:00:00Z",
+      "media_type": 2,
+      "like_count": 23,
+      "comment_count": 1
+    },
+    "title": "We wanted to create a competition that’s both fun and true to what we do every day in coffee: cupping, testing our senso",
+    "category": "tasting",
+    "summary": "Think you’ve got what it takes to taste your way to the top? Join us at our St Louis opening party and put your palate to the test. 🏆 Prizes for 1st, 2nd and 3rd!",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "We wanted to create a competition that’s both fun and true to what we do every day in coffee: cupping, testing our sensory skills and calibrating with each other. \n\nThink you’ve got what it takes to taste your way to the top? Join us at our St Louis opening party and put your palate to the test. \n\n🏆 Prizes for 1st, 2nd and 3rd! \n🎉 Sign up at the event. Spots are limited! \n\n#coffeecupping #triangulationbattle #sensoryskills #coffeecompetition #stlcoffee #openingparty",
+    "transcript_en": "We wanted to create a competition that’s both fun and true to what we do every day in coffee: cupping, testing our sensory skills and calibrating with each other. \n\nThink you’ve got what it takes to taste your way to the top? Join us at our St Louis opening party and put your palate to the test. \n\n🏆 Prizes for 1st, 2nd and 3rd! \n🎉 Sign up at the event. Spots are limited! \n\n#coffeecupping #triangulationbattle #sensoryskills #coffeecompetition #stlcoffee #openingparty",
+    "tags": [
+      "instagram"
     ]
   }
 ]

@@ -4,9 +4,7 @@
 from __future__ import annotations
 
 import json
-from collections import OrderedDict
 from pathlib import Path
-from textwrap import wrap
 
 
 ROOT = Path(__file__).resolve().parent
@@ -29,6 +27,10 @@ def normalize(seed: list[dict]) -> list[dict]:
     for row in seed:
         source = row["source"]
         post = row["post"]
+        transcript_original = row.get("transcript_original")
+        if transcript_original is None:
+            transcript_original = row.get("transcript", "")
+        transcript_en = row.get("transcript_en", transcript_original)
         rows.append(
             {
                 "entry_id": row["entry_id"],
@@ -50,7 +52,8 @@ def normalize(seed: list[dict]) -> list[dict]:
                 "category": row["category"],
                 "summary": row["summary"],
                 "transcript_source": row["transcript_source"],
-                "transcript": row["transcript"],
+                "transcript_original": transcript_original,
+                "transcript_en": transcript_en,
                 "tags": row["tags"],
             }
         )
@@ -63,21 +66,26 @@ def format_block(entry: dict) -> str:
     tags = ", ".join(entry["tags"])
     post = entry["post"]
     source = entry["source"]
-    return "\n".join(
-        [
-            f"#{entry['entry_id']} {entry['title']}",
-            f"Source: {source['display_name']} (@{source['handle']})",
-            f"Profile: {source['profile_url']}",
-            f"Post: {post['post_url']}",
-            f"Posted: {post['posted_at']}",
-            f"Category: {entry['category']}",
-            f"Tags: {tags}",
-            f"Summary: {entry['summary']}",
-            f"Transcript source: {entry['transcript_source']}",
-            "",
-            entry["transcript"].rstrip(),
-        ]
-    )
+    original = entry["transcript_original"].rstrip()
+    english = entry["transcript_en"].rstrip()
+    lines = [
+        f"#{entry['entry_id']} {entry['title']}",
+        f"Source: {source['display_name']} (@{source['handle']})",
+        f"Profile: {source['profile_url']}",
+        f"Post: {post['post_url']}",
+        f"Posted: {post['posted_at']}",
+        f"Category: {entry['category']}",
+        f"Tags: {tags}",
+        f"Summary: {entry['summary']}",
+        f"Transcript source: {entry['transcript_source']}",
+        "",
+        "Original:",
+        original,
+        "",
+        "English:",
+        english,
+    ]
+    return "\n".join(lines)
 
 
 def build() -> None:

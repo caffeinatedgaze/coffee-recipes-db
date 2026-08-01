@@ -8,6 +8,8 @@ import subprocess
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
+from urllib.parse import quote
+from urllib.request import urlopen
 
 
 ROOT = Path(__file__).resolve().parent
@@ -54,6 +56,12 @@ def load_seed() -> list[dict[str, Any]]:
     if not isinstance(data, list):
         raise ValueError("seed.json must contain a JSON array")
     return data
+
+
+def save_seed(seed: list[dict[str, Any]]) -> None:
+    with SEED_PATH.open("w", encoding="utf-8") as fh:
+        json.dump(seed, fh, ensure_ascii=False, indent=2)
+        fh.write("\n")
 
 
 def is_relevant(handle: str, caption: str) -> bool:
@@ -115,6 +123,29 @@ def infer_tags(handle: str, caption: str) -> list[str]:
     if "fermentation" in lower or "anaerobic" in lower:
         tags.append("fermentation")
     return sorted(set(tags))
+
+
+def translate_to_english(text: str) -> str:
+    url = (
+        "https://translate.googleapis.com/translate_a/single"
+        f"?client=gtx&sl=auto&tl=en&dt=t&q={quote(text)}"
+    )
+    payload = urlopen(url, timeout=30).read().decode("utf-8")
+    data = json.loads(payload)
+    return "".join(piece[0] for piece in data[0] if piece and piece[0])
+
+
+def ensure_translation_fields(seed: list[dict[str, Any]]) -> bool:
+    changed = False
+    for row in seed:
+        original = row.get("transcript_original") or row.get("transcript", "")
+        if row.get("transcript_original") != original:
+            row["transcript_original"] = original
+            changed = True
+        if not row.get("transcript_en"):
+            row["transcript_en"] = translate_to_english(original)
+            changed = True
+    return changed
 
 
 def fetch_feed_items(handles: list[str]) -> list[FeedItem]:
@@ -185,8 +216,9 @@ ig.state.generateDevice('{SESSION_EMAIL}');
 def build_entry(handle: str, shortcode: str, caption: str, media_type: int | None, like_count: int | None, comment_count: int | None, taken_at: int | None) -> dict[str, Any]:
     ts = "1970-01-01T00:00:00.000Z"
     if taken_at:
-      from datetime import datetime, timezone
-      ts = datetime.fromtimestamp(taken_at, tz=timezone.utc).isoformat().replace("+00:00", "Z")
+        from datetime import datetime, timezone
+
+        ts = datetime.fromtimestamp(taken_at, tz=timezone.utc).isoformat().replace("+00:00", "Z")
     return {
         "source": {
             "handle": handle,
@@ -206,13 +238,15 @@ def build_entry(handle: str, shortcode: str, caption: str, media_type: int | Non
         "category": infer_category(handle, caption),
         "summary": infer_summary(handle, caption),
         "transcript_source": "Instagram caption",
-        "transcript": caption,
+        "transcript_original": caption,
+        "transcript_en": translate_to_english(caption),
         "tags": infer_tags(handle, caption),
     }
 
 
 def main() -> None:
     seed = load_seed()
+    seed_changed = ensure_translation_fields(seed)
     existing = {f"{row['source']['handle']}:{row['post']['shortcode']}": row for row in seed}
     handles = sorted({row["source"]["handle"] for row in seed})
     fetched = fetch_feed_items(handles)
@@ -223,22 +257,27 @@ def main() -> None:
             continue
         if item.key in existing:
             continue
-        seed.append(build_entry(item.handle, item.shortcode, item.caption, item.media_type, item.like_count, item.comment_count, item.taken_at))
+        seed.append(
+            build_entry(
+                item.handle,
+                item.shortcode,
+                item.caption,
+                item.media_type,
+                item.like_count,
+                item.comment_count,
+                item.taken_at,
+            )
+        )
         added += 1
 
-    if added:
-        def posted_at_key(row: dict[str, Any]) -> str:
-            return row["post"]["posted_at"]
-
-        seed.sort(key=posted_at_key, reverse=True)
+    if added or seed_changed:
+        seed.sort(key=lambda row: row["post"]["posted_at"], reverse=True)
         for idx, row in enumerate(seed, start=1):
             row["entry_id"] = idx
-        with SEED_PATH.open("w", encoding="utf-8") as fh:
-            json.dump(seed, fh, ensure_ascii=False, indent=2)
-            fh.write("\n")
+        save_seed(seed)
 
     subprocess.run(["python3", str(BUILD_PATH)], cwd=ROOT, check=True)
-    print(f"refresh complete; added={added}")
+    print(f"refresh complete; added={added}; translated={'yes' if seed_changed or added else 'no changes'}")
 
 
 if __name__ == "__main__":
