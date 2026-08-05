@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Coffee Recipes DB - searchable coffee recipe library with filters and source links."
+    />
+    <title>Coffee Recipes DB</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="bg bg-1"></div>
+    <div class="bg bg-2"></div>
+
+    <main class="app">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Coffee Recipes DB</p>
+          <h1>Search the brew library without digging through text dumps.</h1>
+          <p class="lede">
+            Search by creator, bean, recipe name, tags, or the full caption.
+            Filter by category, sort by date, and jump straight to the original
+            post.
+          </p>
+
+          <div class="controls">
+            <label class="search">
+              <span>Search</span>
+              <input
+                id="searchInput"
+                type="search"
+                placeholder="Bean, recipe, creator, tags..."
+                autocomplete="off"
+              />
+            </label>
+
+            <label class="toggle">
+              <input id="captionToggle" type="checkbox" checked />
+              <span>Include captions</span>
+            </label>
+          </div>
+        </div>
+
+        <aside class="stats">
+          <div class="stat">
+            <span>Total entries</span>
+            <strong id="totalCount">0</strong>
+          </div>
+          <div class="stat">
+            <span>Visible</span>
+            <strong id="visibleCount">0</strong>
+          </div>
+          <div class="stat">
+            <span>Categories</span>
+            <strong id="categoryCount">0</strong>
+          </div>
+        </aside>
+      </section>
+
+      <section class="toolbar" aria-label="Filters">
+        <div id="categoryBar" class="chips"></div>
+        <select id="sortSelect" class="sort">
+          <option value="newest">Newest first</option>
+          <option value="oldest">Oldest first</option>
+        </select>
+      </section>
+
+      <section class="feature">
+        <div>
+          <p class="eyebrow">Featured</p>
+          <h2 id="featureTitle">Loading...</h2>
+          <p id="featureSummary" class="feature-summary"></p>
+        </div>
+        <div class="feature-meta">
+          <div><span>Creator</span><strong id="featureCreator">--</strong></div>
+          <div><span>Posted</span><strong id="featurePosted">--</strong></div>
+          <div><span>Source</span><strong id="featureSource">--</strong></div>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-head">
+          <div>
+            <h2>Results</h2>
+            <p id="resultMeta">Loading...</p>
+          </div>
+          <button id="clearButton" class="clear-btn" type="button">
+            Clear filters
+          </button>
+        </div>
+        <div id="grid" class="grid"></div>
+      </section>
+    </main>
+
+    <template id="cardTemplate">
+      <article class="card">
+        <div class="card-top">
+          <div>
+            <p class="card-date"></p>
+            <h3 class="card-title"></h3>
+          </div>
+          <div class="badge-row">
+            <span class="badge" data-field="category"></span>
+            <span class="badge badge-soft" data-field="tags"></span>
+          </div>
+        </div>
+
+        <p class="card-summary"></p>
+
+        <dl class="facts"></dl>
+
+        <details class="transcript">
+          <summary>Open transcript</summary>
+          <div class="transcript-body">
+            <div>
+              <span>Original</span>
+              <p data-field="original"></p>
+            </div>
+            <div>
+              <span>English</span>
+              <p data-field="english"></p>
+            </div>
+          </div>
+        </details>
+
+        <div class="links">
+          <a data-field="post" href="#" target="_blank" rel="noreferrer">Open post</a>
+          <a data-field="profile" href="#" target="_blank" rel="noreferrer">Open profile</a>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

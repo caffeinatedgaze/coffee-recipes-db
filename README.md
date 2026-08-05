@@ -2,6 +2,16 @@
 
 Small local text-file library of coffee-making recipes and tips pulled from public Instagram feeds.
 
+## Search UI
+
+The repo also includes a static GitHub Pages-ready search UI:
+
+- `index.html` - browser UI
+- `styles.css` - visual design
+- `app.js` - search, filters, and rendering
+
+It reads `recipes.json` directly, so there is no build step.
+
 ## What is stored
 
 - Source creator and profile URL
