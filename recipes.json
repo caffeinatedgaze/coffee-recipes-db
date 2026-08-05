@@ -2,6 +2,34 @@
   {
     "entry_id": 1,
     "source": {
+      "handle": "tilt.45",
+      "display_name": "tilt.45",
+      "profile_url": "https://www.instagram.com/tilt.45/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DbpzJPpR-gR",
+      "post_url": "https://www.instagram.com/p/DbpzJPpR-gR/",
+      "posted_at": "2026-08-05T09:24:54Z",
+      "media_type": 2,
+      "like_count": 483,
+      "comment_count": 6
+    },
+    "title": "最近流行りの多投レシピ",
+    "category": "filter_recipe",
+    "summary": "粉量 13g 総注湯量 200g 湯温90℃",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "最近流行りの多投レシピ\n\nーーー今回の抽出レシピーーー\n　\n@rikuto.co\nColombia Granja Paraiso92 Yellow Typica Honey\n\n粉量 13g 総注湯量 200g 湯温90℃ \n挽目 中粗挽き(Comandante 28click)\n　\n①0:00-0:05 30g\n②0:30-0:35 60g\n③1:00-1:05 90g\n④1:30-1:35 120g\n⑤1:50-1:55 150g\n⑥2:10-2:17 200g\n2:35 finish\n\nーーーーーーーーーーーーーー\n　\nグランハパライソの甘さと発酵の香り、そして滑らかな質感をいい感じに出すならこんな多投レシピがおすすめ。\n\n粗挽きに対してサクサク小分けにして注ぐことで水に溶けやすい成分を抽出しつつ、水に溶けにくい成分もこそぎ落としていくイメージかな。\n\nもっと極端に粗挽きにしてもっと細かく注ぎ分けるレシピも面白いけど、いつものレンジでやるならまずはこれで。\n\n普通にいれてもきれいな味わいが楽しめるこのコーヒーの質感をもっとより良くしたいならこのレシピを試してみてね",
+    "transcript_en": "Recent trending multi-throw recipes\n\n---This extraction recipe--\n　\n@rikuto.co\nColombia Granja Paraiso92 Yellow Typica Honey\n\nPowder amount 13g Total pouring amount 200g Water temperature 90℃\nMedium coarse grind (Comandante 28click)\n　\n①0:00-0:05 30g\n②0:30-0:35 60g\n③1:00-1:05 90g\n④1:30-1:35 120g\n⑤1:50-1:55 150g\n⑥2:10-2:17 200g\n2:35 finish\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n　\nIf you want to bring out the sweetness, fermented aroma, and smooth texture of Granjaparaiso, we recommend this multi-throw recipe.\n\nI imagine that by pouring coarsely ground powder into crispy portions, the ingredients that are easily soluble in water can be extracted, while also scraping off the ingredients that are less soluble in water.\n\nIt would be interesting to have a recipe for grinding it more coarsely and pouring it out more finely, but if you want to do it in a regular microwave, this is the way to go.\n\nIf you want to improve the texture of this coffee, which has a beautiful taste even when brewed normally, try this recipe.",
+    "tags": [
+      "filter",
+      "instagram",
+      "pour-over"
+    ]
+  },
+  {
+    "entry_id": 2,
+    "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
       "profile_url": "https://www.instagram.com/itsjustcoffeepodcast/",
@@ -27,7 +55,7 @@
     ]
   },
   {
-    "entry_id": 2,
+    "entry_id": 3,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -55,7 +83,7 @@
     ]
   },
   {
-    "entry_id": 3,
+    "entry_id": 4,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -84,7 +112,7 @@
     ]
   },
   {
-    "entry_id": 4,
+    "entry_id": 5,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -114,7 +142,7 @@
     ]
   },
   {
-    "entry_id": 5,
+    "entry_id": 6,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -144,7 +172,7 @@
     ]
   },
   {
-    "entry_id": 6,
+    "entry_id": 7,
     "source": {
       "handle": "bettr.academy",
       "display_name": "Bettr Academy",
@@ -173,7 +201,7 @@
     ]
   },
   {
-    "entry_id": 7,
+    "entry_id": 8,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -203,7 +231,7 @@
     ]
   },
   {
-    "entry_id": 8,
+    "entry_id": 9,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -233,7 +261,7 @@
     ]
   },
   {
-    "entry_id": 9,
+    "entry_id": 10,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "Specialty Coffee Association",
@@ -262,7 +290,7 @@
     ]
   },
   {
-    "entry_id": 10,
+    "entry_id": 11,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -291,7 +319,7 @@
     ]
   },
   {
-    "entry_id": 11,
+    "entry_id": 12,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "First Crack Coffee",
@@ -320,7 +348,7 @@
     ]
   },
   {
-    "entry_id": 12,
+    "entry_id": 13,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -347,7 +375,7 @@
     ]
   },
   {
-    "entry_id": 13,
+    "entry_id": 14,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -373,7 +401,7 @@
     ]
   },
   {
-    "entry_id": 14,
+    "entry_id": 15,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -399,7 +427,7 @@
     ]
   },
   {
-    "entry_id": 15,
+    "entry_id": 16,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -425,7 +453,7 @@
     ]
   },
   {
-    "entry_id": 16,
+    "entry_id": 17,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -452,7 +480,7 @@
     ]
   },
   {
-    "entry_id": 17,
+    "entry_id": 18,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "It’s Just Coffee Podcast",
@@ -481,7 +509,7 @@
     ]
   },
   {
-    "entry_id": 18,
+    "entry_id": 19,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -511,7 +539,7 @@
     ]
   },
   {
-    "entry_id": 19,
+    "entry_id": 20,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -538,7 +566,7 @@
     ]
   },
   {
-    "entry_id": 20,
+    "entry_id": 21,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -568,7 +596,7 @@
     ]
   },
   {
-    "entry_id": 21,
+    "entry_id": 22,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -596,7 +624,7 @@
     ]
   },
   {
-    "entry_id": 22,
+    "entry_id": 23,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -626,7 +654,7 @@
     ]
   },
   {
-    "entry_id": 23,
+    "entry_id": 24,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "first.crack.coffee",
