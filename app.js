@@ -48,12 +48,12 @@ function safe(value) {
 
 function normalize(entry) {
   const caption = safe(entry.transcript_original);
-  const english = safe(entry.transcript_en);
+  const english = safe(entry.transcript_en || entry.summary);
   const tags = Array.isArray(entry.tags) ? entry.tags : [];
   const searchBase = [
     entry.title,
-    entry.category,
     entry.summary,
+    entry.category,
     entry.source?.display_name,
     entry.source?.handle,
     entry.source?.notes,
@@ -93,7 +93,7 @@ function renderFilters() {
     { value: "all", label: `All (${state.entries.length})` },
     ...Array.from(counts.entries()).map(([value, count]) => ({
       value,
-      label: `${value} (${count})`,
+      label: `${formatCategory(value)} (${count})`,
     })),
   ];
 
@@ -120,9 +120,24 @@ function matches(entry) {
   return categoryOk && queryOk;
 }
 
+function formatCategory(value) {
+  if (!value) return "Other";
+  return value
+    .split(/[_-]+/g)
+    .filter(Boolean)
+    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
+    .join(" ");
+}
+
 function fact(label, value) {
   if (!value) return "";
   return `<dt>${label}</dt><dd>${escapeHtml(value)}</dd>`;
+}
+
+function factLink(label, href, value, extra = "") {
+  if (!href || !value) return "";
+  const suffix = extra ? ` <span class="fact-extra">${escapeHtml(extra)}</span>` : "";
+  return `<dt>${label}</dt><dd><a href="${escapeHtml(href)}" target="_blank" rel="noreferrer">${escapeHtml(value)}</a>${suffix}</dd>`;
 }
 
 function escapeHtml(value) {
@@ -145,10 +160,10 @@ function renderFeature(entries) {
   }
 
   nodes.featureTitle.textContent = featured.title;
-  nodes.featureSummary.textContent = featured.summary;
+  nodes.featureSummary.textContent = featured.summary || "No English summary stored.";
   nodes.featureCreator.textContent = `${featured.source.display_name} (@${featured.source.handle})`;
   nodes.featurePosted.textContent = formatDate(featured.post.posted_at);
-  nodes.featureSource.textContent = featured.source.profile_url;
+  nodes.featureSource.innerHTML = `<a href="${escapeHtml(featured.source.profile_url)}" target="_blank" rel="noreferrer">${escapeHtml(featured.source.display_name)}</a>`;
 }
 
 function renderCards(entries) {
@@ -169,16 +184,18 @@ function renderCards(entries) {
     const node = nodes.cardTemplate.content.firstElementChild.cloneNode(true);
     node.querySelector(".card-date").textContent = formatDate(entry.post.posted_at);
     node.querySelector(".card-title").textContent = entry.title;
-    node.querySelector('[data-field="category"]').textContent = entry.category;
+    node.querySelector(".card-title-english").textContent = entry.summary || "English summary unavailable.";
+    node.querySelector('[data-field="category"]').textContent = formatCategory(entry.category);
     node.querySelector('[data-field="tags"]').textContent = entry.tags.join(" · ");
-    node.querySelector(".card-summary").textContent = entry.summary;
+    node.querySelector(".card-summary").textContent = entry.summary || "No English summary stored.";
     node.querySelector(".facts").innerHTML =
       fact("Creator", `${entry.source.display_name} (@${entry.source.handle})`) +
-      fact("Post", entry.post.shortcode) +
+      factLink("Original post", entry.post.post_url, "Open original post", entry.post.shortcode) +
+      fact("Shortcode", entry.post.shortcode) +
       fact("Likes", safe(entry.post.like_count)) +
       fact("Comments", safe(entry.post.comment_count)) +
       fact("Tags", entry.tags.join(", ")) +
-      fact("Category", entry.category);
+      fact("Category", formatCategory(entry.category));
 
     node.querySelector('[data-field="original"]').textContent = entry.caption || "No original caption stored.";
     node.querySelector('[data-field="english"]').textContent = entry.english || "No English translation stored.";

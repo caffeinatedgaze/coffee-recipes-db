@@ -21,8 +21,8 @@
           <h1>Search the brew library without digging through text dumps.</h1>
           <p class="lede">
             Search by creator, bean, recipe name, tags, or the full caption.
-            Filter by category, sort by date, and jump straight to the original
-            post.
+            Each card shows the original text and the English translation
+            together, with direct links to the source post and profile.
           </p>
 
           <div class="controls">
@@ -100,6 +100,7 @@
           <div>
             <p class="card-date"></p>
             <h3 class="card-title"></h3>
+            <p class="card-title-english"></p>
           </div>
           <div class="badge-row">
             <span class="badge" data-field="category"></span>
@@ -111,22 +112,21 @@
 
         <dl class="facts"></dl>
 
-        <details class="transcript">
-          <summary>Open transcript</summary>
+        <div class="transcript">
           <div class="transcript-body">
             <div>
-              <span>Original</span>
+              <span>Original text</span>
               <p data-field="original"></p>
             </div>
             <div>
-              <span>English</span>
+              <span>English translation</span>
               <p data-field="english"></p>
             </div>
           </div>
-        </details>
+        </div>
 
         <div class="links">
-          <a data-field="post" href="#" target="_blank" rel="noreferrer">Open post</a>
+          <a data-field="post" href="#" target="_blank" rel="noreferrer">Open original post</a>
           <a data-field="profile" href="#" target="_blank" rel="noreferrer">Open profile</a>
         </div>
       </article>

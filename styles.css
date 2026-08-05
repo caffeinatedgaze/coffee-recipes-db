@@ -316,6 +316,13 @@ h1 {
   line-height: 1.04;
 }
 
+.card-title-english {
+  margin: 0.35rem 0 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
 .badge-row {
   display: flex;
   flex-wrap: wrap;
@@ -363,6 +370,20 @@ h1 {
   color: var(--text);
 }
 
+.facts dd a {
+  color: var(--text);
+  text-decoration-color: rgba(219, 164, 107, 0.45);
+}
+
+.facts dd a:hover {
+  color: var(--accent);
+}
+
+.fact-extra {
+  color: var(--muted);
+  font-size: 0.82em;
+}
+
 .transcript {
   border: 1px solid var(--line);
   border-radius: 18px;
@@ -382,6 +403,7 @@ h1 {
 
 .transcript-body {
   display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 0.85rem;
   margin-top: 0.9rem;
 }
@@ -462,5 +484,9 @@ h1 {
 
   .badge-row {
     justify-content: start;
+  }
+
+  .transcript-body {
+    grid-template-columns: 1fr;
   }
 }
