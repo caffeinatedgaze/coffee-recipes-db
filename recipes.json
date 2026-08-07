@@ -2,6 +2,34 @@
   {
     "entry_id": 1,
     "source": {
+      "handle": "bettr.academy",
+      "display_name": "bettr.academy",
+      "profile_url": "https://www.instagram.com/bettr.academy/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DbvJ0vCj66r",
+      "post_url": "https://www.instagram.com/p/DbvJ0vCj66r/",
+      "posted_at": "2026-08-07T11:12:29Z",
+      "media_type": 8,
+      "like_count": 10,
+      "comment_count": 0
+    },
+    "title": "Did you believe any of these myths?",
+    "category": "education",
+    "summary": "We have invited guest trainer, Luiz Roberto Saldanha from Brazil to run a 2-day course covering what coffee fermentation actually is, and the science behind it. This course is for the coffee professionals (or the coffee geeks👀🧪) that are ke",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "Did you believe any of these myths? \n\nWe have invited guest trainer, Luiz Roberto Saldanha from Brazil to run a 2-day course covering what coffee fermentation actually is, and the science behind it. This course is for the coffee professionals (or the coffee geeks👀🧪) that are keen to learn more about the coffee industry.\n\nCoffee Fermentation: from Microbes to Flavour\n📅 26th - 27th August\n📍 Bettr Academy\n🔗 Link in bio to enrol!\n\n#coffeefermentation #bettracademy #drip #specialitycoffee #fyp",
+    "transcript_en": "Did you believe any of these myths? \n\nWe have invited guest trainer, Luiz Roberto Saldanha from Brazil to run a 2-day course covering what coffee fermentation actually is, and the science behind it. This course is for the coffee professionals (or the coffee geeks👀🧪) that are keen to learn more about the coffee industry.\n\nCoffee Fermentation: from Microbes to Flavour\n📅 26th - 27th August\n📍 Bettr Academy\n🔗 Link in bio to enrol!\n\n#coffeefermentation #bettracademy #drip #specialitycoffee #fyp",
+    "tags": [
+      "brew",
+      "fermentation",
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 2,
+    "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
       "profile_url": "https://www.instagram.com/tilt.45/",
@@ -28,7 +56,7 @@
     ]
   },
   {
-    "entry_id": 2,
+    "entry_id": 3,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -55,7 +83,7 @@
     ]
   },
   {
-    "entry_id": 3,
+    "entry_id": 4,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -83,7 +111,7 @@
     ]
   },
   {
-    "entry_id": 4,
+    "entry_id": 5,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -112,7 +140,7 @@
     ]
   },
   {
-    "entry_id": 5,
+    "entry_id": 6,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -142,7 +170,7 @@
     ]
   },
   {
-    "entry_id": 6,
+    "entry_id": 7,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -172,7 +200,7 @@
     ]
   },
   {
-    "entry_id": 7,
+    "entry_id": 8,
     "source": {
       "handle": "bettr.academy",
       "display_name": "Bettr Academy",
@@ -201,7 +229,7 @@
     ]
   },
   {
-    "entry_id": 8,
+    "entry_id": 9,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -231,7 +259,7 @@
     ]
   },
   {
-    "entry_id": 9,
+    "entry_id": 10,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -261,7 +289,7 @@
     ]
   },
   {
-    "entry_id": 10,
+    "entry_id": 11,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "Specialty Coffee Association",
@@ -290,7 +318,7 @@
     ]
   },
   {
-    "entry_id": 11,
+    "entry_id": 12,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -319,7 +347,7 @@
     ]
   },
   {
-    "entry_id": 12,
+    "entry_id": 13,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "First Crack Coffee",
@@ -348,7 +376,7 @@
     ]
   },
   {
-    "entry_id": 13,
+    "entry_id": 14,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -375,7 +403,7 @@
     ]
   },
   {
-    "entry_id": 14,
+    "entry_id": 15,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -401,7 +429,7 @@
     ]
   },
   {
-    "entry_id": 15,
+    "entry_id": 16,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -427,7 +455,7 @@
     ]
   },
   {
-    "entry_id": 16,
+    "entry_id": 17,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -453,7 +481,7 @@
     ]
   },
   {
-    "entry_id": 17,
+    "entry_id": 18,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -480,7 +508,7 @@
     ]
   },
   {
-    "entry_id": 18,
+    "entry_id": 19,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "It’s Just Coffee Podcast",
@@ -509,7 +537,7 @@
     ]
   },
   {
-    "entry_id": 19,
+    "entry_id": 20,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -539,7 +567,7 @@
     ]
   },
   {
-    "entry_id": 20,
+    "entry_id": 21,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -566,7 +594,7 @@
     ]
   },
   {
-    "entry_id": 21,
+    "entry_id": 22,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -596,7 +624,7 @@
     ]
   },
   {
-    "entry_id": 22,
+    "entry_id": 23,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -624,7 +652,7 @@
     ]
   },
   {
-    "entry_id": 23,
+    "entry_id": 24,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -654,7 +682,7 @@
     ]
   },
   {
-    "entry_id": 24,
+    "entry_id": 25,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "first.crack.coffee",
