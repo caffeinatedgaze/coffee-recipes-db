@@ -2,6 +2,33 @@
   {
     "entry_id": 1,
     "source": {
+      "handle": "brickandmortarcoffee",
+      "display_name": "brickandmortarcoffee",
+      "profile_url": "https://www.instagram.com/brickandmortarcoffee/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "Dbvj4_FCTvp",
+      "post_url": "https://www.instagram.com/p/Dbvj4_FCTvp/",
+      "posted_at": "2026-08-07T15:01:20Z",
+      "media_type": 2,
+      "like_count": 18,
+      "comment_count": 1
+    },
+    "title": "Coffee rules are more like suggestions.",
+    "category": "drink_tip",
+    "summary": "Keep the crema, split the shot, steam it, or use regular hot water. Mix and match until you find your favorite. Our Airocano combines it all, and it’s quickly replacing the Americano around here.",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "Coffee rules are more like suggestions.\n\nKeep the crema, split the shot, steam it, or use regular hot water. Mix and match until you find your favorite.\n\nOur Airocano combines it all, and it’s quickly replacing the Americano around here.\n\nTry it and let us know what you think.\n\n#Airocano #AmericanoCoffee #SpecialtyCoffee #CoffeeEducation #CoffeeShop",
+    "transcript_en": "Coffee rules are more like suggestions.\n\nKeep the crema, split the shot, steam it, or use regular hot water. Mix and match until you find your favorite.\n\nOur Airocano combines it all, and it’s quickly replacing the Americano around here.\n\nTry it and let us know what you think.\n\n#Airocano #AmericanoCoffee #SpecialtyCoffee #CoffeeEducation #CoffeeShop",
+    "tags": [
+      "americano",
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 2,
+    "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
       "profile_url": "https://www.instagram.com/bettr.academy/",
@@ -28,7 +55,7 @@
     ]
   },
   {
-    "entry_id": 2,
+    "entry_id": 3,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -56,7 +83,7 @@
     ]
   },
   {
-    "entry_id": 3,
+    "entry_id": 4,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -83,7 +110,7 @@
     ]
   },
   {
-    "entry_id": 4,
+    "entry_id": 5,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -111,7 +138,7 @@
     ]
   },
   {
-    "entry_id": 5,
+    "entry_id": 6,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -140,7 +167,7 @@
     ]
   },
   {
-    "entry_id": 6,
+    "entry_id": 7,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -170,7 +197,7 @@
     ]
   },
   {
-    "entry_id": 7,
+    "entry_id": 8,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -200,7 +227,7 @@
     ]
   },
   {
-    "entry_id": 8,
+    "entry_id": 9,
     "source": {
       "handle": "bettr.academy",
       "display_name": "Bettr Academy",
@@ -229,7 +256,7 @@
     ]
   },
   {
-    "entry_id": 9,
+    "entry_id": 10,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -259,7 +286,7 @@
     ]
   },
   {
-    "entry_id": 10,
+    "entry_id": 11,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -289,7 +316,7 @@
     ]
   },
   {
-    "entry_id": 11,
+    "entry_id": 12,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "Specialty Coffee Association",
@@ -318,7 +345,7 @@
     ]
   },
   {
-    "entry_id": 12,
+    "entry_id": 13,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -347,7 +374,7 @@
     ]
   },
   {
-    "entry_id": 13,
+    "entry_id": 14,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "First Crack Coffee",
@@ -376,7 +403,7 @@
     ]
   },
   {
-    "entry_id": 14,
+    "entry_id": 15,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -403,7 +430,7 @@
     ]
   },
   {
-    "entry_id": 15,
+    "entry_id": 16,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -429,7 +456,7 @@
     ]
   },
   {
-    "entry_id": 16,
+    "entry_id": 17,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -455,7 +482,7 @@
     ]
   },
   {
-    "entry_id": 17,
+    "entry_id": 18,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -481,7 +508,7 @@
     ]
   },
   {
-    "entry_id": 18,
+    "entry_id": 19,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -508,7 +535,7 @@
     ]
   },
   {
-    "entry_id": 19,
+    "entry_id": 20,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "It’s Just Coffee Podcast",
@@ -537,7 +564,7 @@
     ]
   },
   {
-    "entry_id": 20,
+    "entry_id": 21,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -567,7 +594,7 @@
     ]
   },
   {
-    "entry_id": 21,
+    "entry_id": 22,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -594,7 +621,7 @@
     ]
   },
   {
-    "entry_id": 22,
+    "entry_id": 23,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -624,7 +651,7 @@
     ]
   },
   {
-    "entry_id": 23,
+    "entry_id": 24,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -652,7 +679,7 @@
     ]
   },
   {
-    "entry_id": 24,
+    "entry_id": 25,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -682,7 +709,7 @@
     ]
   },
   {
-    "entry_id": 25,
+    "entry_id": 26,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "first.crack.coffee",
