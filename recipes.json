@@ -2,6 +2,33 @@
   {
     "entry_id": 1,
     "source": {
+      "handle": "itsjustcoffeepodcast",
+      "display_name": "itsjustcoffeepodcast",
+      "profile_url": "https://www.instagram.com/itsjustcoffeepodcast/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "Db2X9ckggfd",
+      "post_url": "https://www.instagram.com/p/Db2X9ckggfd/",
+      "posted_at": "2026-08-10T06:31:40Z",
+      "media_type": 2,
+      "like_count": 133,
+      "comment_count": 12
+    },
+    "title": "You heard it here first; the Australian Brewers Champion and World Brewers Cup runner-up @simon_gautherin lays out the l",
+    "category": "gear",
+    "summary": "Learn how to brew coffee like a champion. Listen to our episode with Simon and his coach @carlos.esco.bar for an exclusive brewing lesson, plus some behind the scenes tea from WOC Brussels 2026. Find it on YouTube or wherever you get your p",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "You heard it here first; the Australian Brewers Champion and World Brewers Cup runner-up @simon_gautherin lays out the law!\n\nLearn how to brew coffee like a champion. Listen to our episode with Simon and his coach @carlos.esco.bar for an exclusive brewing lesson, plus some behind the scenes tea from WOC Brussels 2026. \n\nFind it on YouTube or wherever you get your podcasts: ‘The 2nd Best Brewer in the World Says You're Extracting Too Much' \n\nLink in bio. \n\n@apaxlab\n\n#itsjustcoffee #coffeepodcast #apaxlab #wocbrussels #coffeebrewing #brewinggear",
+    "transcript_en": "You heard it here first; the Australian Brewers Champion and World Brewers Cup runner-up @simon_gautherin lays out the law!\n\nLearn how to brew coffee like a champion. Listen to our episode with Simon and his coach @carlos.esco.bar for an exclusive brewing lesson, plus some behind the scenes tea from WOC Brussels 2026. \n\nFind it on YouTube or wherever you get your podcasts: ‘The 2nd Best Brewer in the World Says You're Extracting Too Much' \n\nLink in bio. \n\n@apaxlab\n\n#itsjustcoffee #coffeepodcast #apaxlab #wocbrussels #coffeebrewing #brewinggear",
+    "tags": [
+      "brew",
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 2,
+    "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
       "profile_url": "https://www.instagram.com/tilt.45/",
@@ -28,7 +55,7 @@
     ]
   },
   {
-    "entry_id": 2,
+    "entry_id": 3,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -55,7 +82,7 @@
     ]
   },
   {
-    "entry_id": 3,
+    "entry_id": 4,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -83,7 +110,7 @@
     ]
   },
   {
-    "entry_id": 4,
+    "entry_id": 5,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -111,7 +138,7 @@
     ]
   },
   {
-    "entry_id": 5,
+    "entry_id": 6,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -138,7 +165,7 @@
     ]
   },
   {
-    "entry_id": 6,
+    "entry_id": 7,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -166,7 +193,7 @@
     ]
   },
   {
-    "entry_id": 7,
+    "entry_id": 8,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -195,7 +222,7 @@
     ]
   },
   {
-    "entry_id": 8,
+    "entry_id": 9,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -225,7 +252,7 @@
     ]
   },
   {
-    "entry_id": 9,
+    "entry_id": 10,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -255,7 +282,7 @@
     ]
   },
   {
-    "entry_id": 10,
+    "entry_id": 11,
     "source": {
       "handle": "bettr.academy",
       "display_name": "Bettr Academy",
@@ -284,7 +311,7 @@
     ]
   },
   {
-    "entry_id": 11,
+    "entry_id": 12,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -314,7 +341,7 @@
     ]
   },
   {
-    "entry_id": 12,
+    "entry_id": 13,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -344,7 +371,7 @@
     ]
   },
   {
-    "entry_id": 13,
+    "entry_id": 14,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "Specialty Coffee Association",
@@ -373,7 +400,7 @@
     ]
   },
   {
-    "entry_id": 14,
+    "entry_id": 15,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -402,7 +429,7 @@
     ]
   },
   {
-    "entry_id": 15,
+    "entry_id": 16,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "First Crack Coffee",
@@ -431,7 +458,7 @@
     ]
   },
   {
-    "entry_id": 16,
+    "entry_id": 17,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -458,7 +485,7 @@
     ]
   },
   {
-    "entry_id": 17,
+    "entry_id": 18,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -484,7 +511,7 @@
     ]
   },
   {
-    "entry_id": 18,
+    "entry_id": 19,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -510,7 +537,7 @@
     ]
   },
   {
-    "entry_id": 19,
+    "entry_id": 20,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -536,7 +563,7 @@
     ]
   },
   {
-    "entry_id": 20,
+    "entry_id": 21,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -563,7 +590,7 @@
     ]
   },
   {
-    "entry_id": 21,
+    "entry_id": 22,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "It’s Just Coffee Podcast",
@@ -592,7 +619,7 @@
     ]
   },
   {
-    "entry_id": 22,
+    "entry_id": 23,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -622,7 +649,7 @@
     ]
   },
   {
-    "entry_id": 23,
+    "entry_id": 24,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -649,7 +676,7 @@
     ]
   },
   {
-    "entry_id": 24,
+    "entry_id": 25,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -679,7 +706,7 @@
     ]
   },
   {
-    "entry_id": 25,
+    "entry_id": 26,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -707,7 +734,7 @@
     ]
   },
   {
-    "entry_id": 26,
+    "entry_id": 27,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -737,7 +764,7 @@
     ]
   },
   {
-    "entry_id": 27,
+    "entry_id": 28,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "first.crack.coffee",
