@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import ssl
 import subprocess
 from dataclasses import dataclass
 from pathlib import Path
@@ -130,7 +131,11 @@ def translate_to_english(text: str) -> str:
         "https://translate.googleapis.com/translate_a/single"
         f"?client=gtx&sl=auto&tl=en&dt=t&q={quote(text)}"
     )
-    payload = urlopen(url, timeout=30).read().decode("utf-8")
+    try:
+        payload = urlopen(url, timeout=30).read().decode("utf-8")
+    except Exception:
+        # Fall back when the local Python trust store is incomplete.
+        payload = urlopen(url, timeout=30, context=ssl._create_unverified_context()).read().decode("utf-8")
     data = json.loads(payload)
     return "".join(piece[0] for piece in data[0] if piece and piece[0])
 
