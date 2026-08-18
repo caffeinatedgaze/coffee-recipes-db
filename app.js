@@ -1,6 +1,6 @@
 const state = {
   entries: [],
-  filter: "all",
+  origin: "all",
   query: "",
   includeCaptions: true,
   sort: "newest",
@@ -17,7 +17,7 @@ const nodes = {
   featureCreator: document.getElementById("featureCreator"),
   featurePosted: document.getElementById("featurePosted"),
   featureSource: document.getElementById("featureSource"),
-  categoryBar: document.getElementById("categoryBar"),
+  originBar: document.getElementById("originBar"),
   searchInput: document.getElementById("searchInput"),
   captionToggle: document.getElementById("captionToggle"),
   sortSelect: document.getElementById("sortSelect"),
@@ -124,39 +124,41 @@ function sortEntries(entries) {
 function renderFilters() {
   const counts = new Map();
   for (const entry of state.entries) {
-    const category = entry.category || "other";
-    counts.set(category, (counts.get(category) || 0) + 1);
+    const origin = entry.origin || "Other origins";
+    counts.set(origin, (counts.get(origin) || 0) + 1);
   }
 
   const chips = [
-    { value: "all", label: `All (${state.entries.length})` },
-    ...Array.from(counts.entries()).map(([value, count]) => ({
-      value,
-      label: `${formatCategory(value)} (${count})`,
-    })),
+    { value: "all", label: `All origins (${state.entries.length})` },
+    ...Array.from(counts.entries())
+      .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+      .map(([value, count]) => ({
+        value,
+        label: `${value} (${count})`,
+      })),
   ];
 
-  nodes.categoryBar.innerHTML = "";
+  nodes.originBar.innerHTML = "";
   for (const chip of chips) {
     const button = document.createElement("button");
     button.type = "button";
-    button.className = `chip${state.filter === chip.value ? " active" : ""}`;
+    button.className = `chip${state.origin === chip.value ? " active" : ""}`;
     button.textContent = chip.label;
     button.addEventListener("click", () => {
-      state.filter = chip.value;
+      state.origin = chip.value;
       render();
     });
-    nodes.categoryBar.appendChild(button);
+    nodes.originBar.appendChild(button);
   }
 }
 
 function matches(entry) {
-  const categoryOk = state.filter === "all" || entry.category === state.filter;
+  const originOk = state.origin === "all" || entry.origin === state.origin;
   const queryPool = state.includeCaptions
     ? `${entry.searchBase} ${entry.searchCaptions}`.trim()
     : entry.searchBase;
   const queryOk = !state.query || queryPool.includes(state.query);
-  return categoryOk && queryOk;
+  return originOk && queryOk;
 }
 
 function formatCategory(value) {
@@ -326,7 +328,7 @@ async function init() {
   });
 
   nodes.clearButton.addEventListener("click", () => {
-    state.filter = "all";
+    state.origin = "all";
     state.query = "";
     state.includeCaptions = true;
     state.sort = "newest";
