@@ -10,7 +10,7 @@ const nodes = {
   grid: document.getElementById("grid"),
   totalCount: document.getElementById("totalCount"),
   visibleCount: document.getElementById("visibleCount"),
-  categoryCount: document.getElementById("categoryCount"),
+  originCount: document.getElementById("originCount"),
   resultMeta: document.getElementById("resultMeta"),
   featureTitle: document.getElementById("featureTitle"),
   featureSummary: document.getElementById("featureSummary"),
@@ -46,14 +46,52 @@ function safe(value) {
   return String(value ?? "");
 }
 
+function getOrigin(entry) {
+  const haystack = [
+    entry.title,
+    entry.summary,
+    entry.transcript_original,
+    entry.transcript_en,
+    Array.isArray(entry.tags) ? entry.tags.join(" ") : "",
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+
+  const rules = [
+    ["Brazil", [/brazil/, /brazilian/, /sao paulo/, /cerrado/, /sumatra/, /smatra/]],
+    ["Colombia", [/colombia/, /cauca/, /huila/, /nariño/, /granja paraiso/, /paraiso92/]],
+    ["Guatemala", [/guatemala/, /antigua/, /chimaltenango/, /la colina/, /las nubes/]],
+    ["Ethiopia", [/ethiopia/, /ethiopian/, /guji/, /yirgacheffe/, /kayon/, /goro bedessa/]],
+    ["Yemen", [/yemen/, /haraz/]],
+    ["Tanzania", [/tanzania/, /acacia hills/]],
+    ["Taiwan", [/taiwan/, /alisan/, /songna/]],
+    ["El Salvador", [/el salvador/, /pacamara/]],
+    ["Indonesia", [/indonesia/, /sumatra/, /smatra/, /indonesian/]],
+    ["Panama", [/panama/]],
+    ["Costa Rica", [/costa rica/]],
+    ["Kenya", [/kenya/]],
+    ["Peru", [/peru/]],
+    ["Mexico", [/mexico/]],
+  ];
+
+  for (const [label, patterns] of rules) {
+    if (patterns.some((pattern) => pattern.test(haystack))) return label;
+  }
+
+  return "Other origins";
+}
+
 function normalize(entry) {
   const caption = safe(entry.transcript_original);
   const english = safe(entry.transcript_en || entry.summary);
   const tags = Array.isArray(entry.tags) ? entry.tags : [];
+  const origin = getOrigin(entry);
   const searchBase = [
     entry.title,
     entry.summary,
     entry.category,
+    origin,
     entry.source?.display_name,
     entry.source?.handle,
     entry.source?.notes,
@@ -67,6 +105,7 @@ function normalize(entry) {
   return {
     ...entry,
     tags,
+    origin,
     caption,
     english,
     searchBase,
@@ -179,31 +218,71 @@ function renderCards(entries) {
   }
 
   const fragment = document.createDocumentFragment();
+  const groups = new Map();
 
   for (const entry of entries) {
-    const node = nodes.cardTemplate.content.firstElementChild.cloneNode(true);
-    node.querySelector(".card-date").textContent = formatDate(entry.post.posted_at);
-    node.querySelector(".card-title").textContent = entry.title;
-    node.querySelector(".card-title-english").textContent = entry.summary || "English summary unavailable.";
-    node.querySelector('[data-field="category"]').textContent = formatCategory(entry.category);
-    node.querySelector('[data-field="tags"]').textContent = entry.tags.join(" · ");
-    node.querySelector(".card-summary").textContent = entry.summary || "No English summary stored.";
-    node.querySelector(".facts").innerHTML =
-      fact("Creator", `${entry.source.display_name} (@${entry.source.handle})`) +
-      factLink("Original post", entry.post.post_url, "Open original post", entry.post.shortcode) +
-      fact("Shortcode", entry.post.shortcode) +
-      fact("Likes", safe(entry.post.like_count)) +
-      fact("Comments", safe(entry.post.comment_count)) +
-      fact("Tags", entry.tags.join(", ")) +
-      fact("Category", formatCategory(entry.category));
+    const list = groups.get(entry.origin) || [];
+    list.push(entry);
+    groups.set(entry.origin, list);
+  }
 
-    node.querySelector('[data-field="original"]').textContent = entry.caption || "No original caption stored.";
-    node.querySelector('[data-field="english"]').textContent = entry.english || "No English translation stored.";
+  const groupedEntries = [...groups.entries()].sort((a, b) => {
+    const countDelta = b[1].length - a[1].length;
+    if (countDelta) return countDelta;
+    return a[0].localeCompare(b[0]);
+  });
 
-    node.querySelector('[data-field="post"]').href = entry.post.post_url;
-    node.querySelector('[data-field="profile"]').href = entry.source.profile_url;
+  for (const [origin, originEntries] of groupedEntries) {
+    const section = document.createElement("section");
+    section.className = "origin-group";
 
-    fragment.appendChild(node);
+    const header = document.createElement("div");
+    header.className = "origin-head";
+    header.innerHTML = `
+      <div>
+        <p class="eyebrow">Origin</p>
+        <h3>${escapeHtml(origin)}</h3>
+      </div>
+      <span class="origin-count">${originEntries.length} coffees</span>
+    `;
+    section.appendChild(header);
+
+    const groupGrid = document.createElement("div");
+    groupGrid.className = "origin-grid";
+
+    for (const entry of originEntries) {
+      const node = nodes.cardTemplate.content.firstElementChild.cloneNode(true);
+      node.querySelector(".card-date").textContent = formatDate(entry.post.posted_at);
+      node.querySelector(".card-title").textContent = entry.title;
+      node.querySelector(".card-title-english").textContent =
+        entry.summary || "English summary unavailable.";
+      node.querySelector('[data-field="category"]').textContent = formatCategory(entry.category);
+      node.querySelector('[data-field="tags"]').textContent = entry.tags.join(" · ");
+      node.querySelector(".card-summary").textContent =
+        entry.summary || "No English summary stored.";
+      node.querySelector(".facts").innerHTML =
+        fact("Origin", entry.origin) +
+        fact("Creator", `${entry.source.display_name} (@${entry.source.handle})`) +
+        factLink("Original post", entry.post.post_url, "Open original post", entry.post.shortcode) +
+        fact("Shortcode", entry.post.shortcode) +
+        fact("Likes", safe(entry.post.like_count)) +
+        fact("Comments", safe(entry.post.comment_count)) +
+        fact("Tags", entry.tags.join(", ")) +
+        fact("Category", formatCategory(entry.category));
+
+      node.querySelector('[data-field="original"]').textContent =
+        entry.caption || "No original caption stored.";
+      node.querySelector('[data-field="english"]').textContent =
+        entry.english || "No English translation stored.";
+
+      node.querySelector('[data-field="post"]').href = entry.post.post_url;
+      node.querySelector('[data-field="profile"]').href = entry.source.profile_url;
+
+      groupGrid.appendChild(node);
+    }
+
+    section.appendChild(groupGrid);
+    fragment.appendChild(section);
   }
 
   nodes.grid.appendChild(fragment);
@@ -216,10 +295,10 @@ function render() {
 
   nodes.totalCount.textContent = String(state.entries.length);
   nodes.visibleCount.textContent = String(filtered.length);
-  nodes.categoryCount.textContent = String(
-    new Set(state.entries.map((entry) => entry.category)).size,
+  nodes.originCount.textContent = String(
+    new Set(state.entries.map((entry) => entry.origin)).size,
   );
-  nodes.resultMeta.textContent = `${filtered.length} visible of ${state.entries.length} total`;
+  nodes.resultMeta.textContent = `${filtered.length} visible across ${new Set(filtered.map((entry) => entry.origin)).size} origins`;
 
   renderFilters();
   renderFeature(filtered);
