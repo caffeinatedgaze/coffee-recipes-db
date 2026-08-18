@@ -2,6 +2,33 @@
   {
     "entry_id": 1,
     "source": {
+      "handle": "bettr.academy",
+      "display_name": "bettr.academy",
+      "profile_url": "https://www.instagram.com/bettr.academy/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DcLUPVmPxAi",
+      "post_url": "https://www.instagram.com/p/DcLUPVmPxAi/",
+      "posted_at": "2026-08-18T09:45:57Z",
+      "media_type": 2,
+      "like_count": 32,
+      "comment_count": 3
+    },
+    "title": "Another day, another mission from the boss: fill up the Coffee Fermentation course by Friday 🫡",
+    "category": "education",
+    "summary": "From Microbes to Flavour — This 2-day course levels you up whether you’re a competition barista who needs to actually understand the process, or a roaster who wants to know exactly what you’re working with. Sign up and save this intern🙏.",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "Another day, another mission from the boss: fill up the Coffee Fermentation course by Friday 🫡\n\nFrom Microbes to Flavour — This 2-day course levels you up whether you’re a competition barista who needs to actually understand the process, or a roaster who wants to know exactly what you’re working with.\n\nSign up and save this intern🙏.\n\n📅 26–27 Aug · Bettr Academy\nLink in bio! \n\n#BettrAcademy #CoffeeFermentation #SpecialtyCoffee #SGCoffee",
+    "transcript_en": "Another day, another mission from the boss: fill up the Coffee Fermentation course by Friday 🫡\n\nFrom Microbes to Flavour — This 2-day course levels you up whether you’re a competition barista who needs to actually understand the process, or a roaster who wants to know exactly what you’re working with.\n\nSign up and save this intern🙏.\n\n📅 26–27 Aug · Bettr Academy\nLink in bio! \n\n#BettrAcademy #CoffeeFermentation #SpecialtyCoffee #SGCoffee",
+    "tags": [
+      "fermentation",
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 2,
+    "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
       "profile_url": "https://www.instagram.com/tilt.45/",
@@ -28,7 +55,7 @@
     ]
   },
   {
-    "entry_id": 2,
+    "entry_id": 3,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -55,7 +82,7 @@
     ]
   },
   {
-    "entry_id": 3,
+    "entry_id": 4,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -83,7 +110,7 @@
     ]
   },
   {
-    "entry_id": 4,
+    "entry_id": 5,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -110,7 +137,7 @@
     ]
   },
   {
-    "entry_id": 5,
+    "entry_id": 6,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -138,7 +165,7 @@
     ]
   },
   {
-    "entry_id": 6,
+    "entry_id": 7,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -166,7 +193,7 @@
     ]
   },
   {
-    "entry_id": 7,
+    "entry_id": 8,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -193,7 +220,7 @@
     ]
   },
   {
-    "entry_id": 8,
+    "entry_id": 9,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -221,7 +248,7 @@
     ]
   },
   {
-    "entry_id": 9,
+    "entry_id": 10,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -250,7 +277,7 @@
     ]
   },
   {
-    "entry_id": 10,
+    "entry_id": 11,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -280,7 +307,7 @@
     ]
   },
   {
-    "entry_id": 11,
+    "entry_id": 12,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -310,7 +337,7 @@
     ]
   },
   {
-    "entry_id": 12,
+    "entry_id": 13,
     "source": {
       "handle": "bettr.academy",
       "display_name": "Bettr Academy",
@@ -339,7 +366,7 @@
     ]
   },
   {
-    "entry_id": 13,
+    "entry_id": 14,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -369,7 +396,7 @@
     ]
   },
   {
-    "entry_id": 14,
+    "entry_id": 15,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -399,7 +426,7 @@
     ]
   },
   {
-    "entry_id": 15,
+    "entry_id": 16,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "Specialty Coffee Association",
@@ -428,7 +455,7 @@
     ]
   },
   {
-    "entry_id": 16,
+    "entry_id": 17,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -457,7 +484,7 @@
     ]
   },
   {
-    "entry_id": 17,
+    "entry_id": 18,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "First Crack Coffee",
@@ -486,7 +513,7 @@
     ]
   },
   {
-    "entry_id": 18,
+    "entry_id": 19,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -513,7 +540,7 @@
     ]
   },
   {
-    "entry_id": 19,
+    "entry_id": 20,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -539,7 +566,7 @@
     ]
   },
   {
-    "entry_id": 20,
+    "entry_id": 21,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -565,7 +592,7 @@
     ]
   },
   {
-    "entry_id": 21,
+    "entry_id": 22,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -591,7 +618,7 @@
     ]
   },
   {
-    "entry_id": 22,
+    "entry_id": 23,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -618,7 +645,7 @@
     ]
   },
   {
-    "entry_id": 23,
+    "entry_id": 24,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "It’s Just Coffee Podcast",
@@ -647,7 +674,7 @@
     ]
   },
   {
-    "entry_id": 24,
+    "entry_id": 25,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -677,7 +704,7 @@
     ]
   },
   {
-    "entry_id": 25,
+    "entry_id": 26,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -704,7 +731,7 @@
     ]
   },
   {
-    "entry_id": 26,
+    "entry_id": 27,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -734,7 +761,7 @@
     ]
   },
   {
-    "entry_id": 27,
+    "entry_id": 28,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -762,7 +789,7 @@
     ]
   },
   {
-    "entry_id": 28,
+    "entry_id": 29,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -792,7 +819,7 @@
     ]
   },
   {
-    "entry_id": 29,
+    "entry_id": 30,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "first.crack.coffee",
