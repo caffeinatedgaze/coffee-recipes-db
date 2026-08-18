@@ -11,10 +11,21 @@
     <link rel="stylesheet" href="./styles.css" />
   </head>
   <body>
-    <div class="bg bg-1"></div>
-    <div class="bg bg-2"></div>
-
     <main class="app">
+      <header class="masthead" aria-label="Coffee DB header">
+        <div class="masthead-brand">
+          <span class="brand-mark">cr</span>
+          <div>
+            <p>Matta-inspired</p>
+            <strong>Coffee Recipes DB</strong>
+          </div>
+        </div>
+        <div class="masthead-actions">
+          <span class="masthead-pill">Menu</span>
+          <span class="masthead-cta">Talk to us &rarr;</span>
+        </div>
+      </header>
+
       <section class="hero">
         <div class="hero-copy">
           <p class="eyebrow">Coffee Recipes DB</p>
@@ -44,6 +55,7 @@
         </div>
 
         <aside class="stats">
+          <div class="hero-art" aria-hidden="true"></div>
           <div class="stat">
             <span>Total entries</span>
             <strong id="totalCount">0</strong>
