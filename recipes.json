@@ -2,6 +2,34 @@
   {
     "entry_id": 1,
     "source": {
+      "handle": "tilt.45",
+      "display_name": "tilt.45",
+      "profile_url": "https://www.instagram.com/tilt.45/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DcOJMW9SYSv",
+      "post_url": "https://www.instagram.com/p/DcOJMW9SYSv/",
+      "posted_at": "2026-08-19T12:04:44Z",
+      "media_type": 2,
+      "like_count": 385,
+      "comment_count": 6
+    },
+    "title": "台湾のコーヒー×Samo bloom",
+    "category": "filter_recipe",
+    "summary": "粉量 13g 総注湯量 200g",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "台湾のコーヒー×Samo bloom\n\nーーー今回の抽出レシピーーー\n　\nTaiwan True Mei Yuan Typica Natural\n\n粉量 13g 総注湯量 200g \n湯温①room temp ②③④⑤96℃ ⑥80℃\n挽目 中粗挽き(Comandante 28click)\n　\n①Samo bloom(常温水) 20g\n②0:00-0:05 30g\n③0:30-0:50 60g\n④1:00-1:05 90g\n⑤1:30-1:35 120g\n⑥2:00-2:05 180g\n3:30 finish\n\nーーーーーーーーーーーーーー\n　\n台湾でコーヒーの栽培をする「竹梅源コーヒー荘園」にご招待いただき、\nCAFERES JAPAN 2026に参加してきたよ。\n\n試飲ではティピカ、SL34、ゲイシャを飲ませてもらったけどどれもかなり綺麗な印象。乾燥プロセスがすごく丁寧なのかも。生産量はまだまだ多くないものの、ポテンシャルをすごく感じたテイスティングでした。\n\n今回はお土産でもらったティピカを僕なりの淹れ方で楽しんでみたよ。\n\nやっぱサモブルームするとなんでか質感がめっちゃ良くなるんだよね。\nぜひみんなも手元のコーヒーで(台湾コーヒーがあればそれでぜひ)サモブルーム試してみてね。\n\n#PR #onsancoffee #organicscoffee #竹梅源コーヒー荘園",
+    "transcript_en": "Taiwanese coffee x Samo bloom\n\n---This extraction recipe--\n　\nTaiwan True Mei Yuan Typica Natural\n\nPowder amount 13g Total pouring amount 200g\nWater temperature ①room temp ②③④⑤96℃ ⑥80℃\nMedium coarse grind (Comandante 28click)\n　\n① Samo bloom (room temperature water) 20g\n②0:00-0:05 30g\n③0:30-0:50 60g\n④1:00-1:05 90g\n⑤1:30-1:35 120g\n⑥2:00-2:05 180g\n3:30 finish\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n　\nWe were invited to \"Zhumeiyuan Coffee Manor\" which grows coffee in Taiwan.\nI participated in CAFERES JAPAN 2026.\n\nDuring the tasting, I tried Typica, SL34, and Geisha, and they all looked pretty good. Maybe the drying process is very careful. Although the production volume is still not large, the tasting gave me a strong sense of its potential.\n\nThis time, I tried to enjoy the Typica that I received as a souvenir using my own method of brewing.\n\nFor some reason, when Samobloom blooms, the texture becomes much better.\nEveryone, please try Samobloom with the coffee you have on hand (or use Taiwanese coffee if you have it).\n\n#PR #onsancoffee #organicscoffee #Takebaigen Coffee Manor",
+    "tags": [
+      "filter",
+      "instagram",
+      "pour-over"
+    ]
+  },
+  {
+    "entry_id": 2,
+    "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
       "profile_url": "https://www.instagram.com/bettr.academy/",
@@ -27,7 +55,7 @@
     ]
   },
   {
-    "entry_id": 2,
+    "entry_id": 3,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -55,7 +83,7 @@
     ]
   },
   {
-    "entry_id": 3,
+    "entry_id": 4,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -82,7 +110,7 @@
     ]
   },
   {
-    "entry_id": 4,
+    "entry_id": 5,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -110,7 +138,7 @@
     ]
   },
   {
-    "entry_id": 5,
+    "entry_id": 6,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -137,7 +165,7 @@
     ]
   },
   {
-    "entry_id": 6,
+    "entry_id": 7,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -165,7 +193,7 @@
     ]
   },
   {
-    "entry_id": 7,
+    "entry_id": 8,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -193,7 +221,7 @@
     ]
   },
   {
-    "entry_id": 8,
+    "entry_id": 9,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -220,7 +248,7 @@
     ]
   },
   {
-    "entry_id": 9,
+    "entry_id": 10,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -248,7 +276,7 @@
     ]
   },
   {
-    "entry_id": 10,
+    "entry_id": 11,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -277,7 +305,7 @@
     ]
   },
   {
-    "entry_id": 11,
+    "entry_id": 12,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -307,7 +335,7 @@
     ]
   },
   {
-    "entry_id": 12,
+    "entry_id": 13,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -337,7 +365,7 @@
     ]
   },
   {
-    "entry_id": 13,
+    "entry_id": 14,
     "source": {
       "handle": "bettr.academy",
       "display_name": "Bettr Academy",
@@ -366,7 +394,7 @@
     ]
   },
   {
-    "entry_id": 14,
+    "entry_id": 15,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -396,7 +424,7 @@
     ]
   },
   {
-    "entry_id": 15,
+    "entry_id": 16,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -426,7 +454,7 @@
     ]
   },
   {
-    "entry_id": 16,
+    "entry_id": 17,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "Specialty Coffee Association",
@@ -455,7 +483,7 @@
     ]
   },
   {
-    "entry_id": 17,
+    "entry_id": 18,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -484,7 +512,7 @@
     ]
   },
   {
-    "entry_id": 18,
+    "entry_id": 19,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "First Crack Coffee",
@@ -513,7 +541,7 @@
     ]
   },
   {
-    "entry_id": 19,
+    "entry_id": 20,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -540,7 +568,7 @@
     ]
   },
   {
-    "entry_id": 20,
+    "entry_id": 21,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -566,7 +594,7 @@
     ]
   },
   {
-    "entry_id": 21,
+    "entry_id": 22,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -592,7 +620,7 @@
     ]
   },
   {
-    "entry_id": 22,
+    "entry_id": 23,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -618,7 +646,7 @@
     ]
   },
   {
-    "entry_id": 23,
+    "entry_id": 24,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -645,7 +673,7 @@
     ]
   },
   {
-    "entry_id": 24,
+    "entry_id": 25,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "It’s Just Coffee Podcast",
@@ -674,7 +702,7 @@
     ]
   },
   {
-    "entry_id": 25,
+    "entry_id": 26,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -704,7 +732,7 @@
     ]
   },
   {
-    "entry_id": 26,
+    "entry_id": 27,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -731,7 +759,7 @@
     ]
   },
   {
-    "entry_id": 27,
+    "entry_id": 28,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -761,7 +789,7 @@
     ]
   },
   {
-    "entry_id": 28,
+    "entry_id": 29,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -789,7 +817,7 @@
     ]
   },
   {
-    "entry_id": 29,
+    "entry_id": 30,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -819,7 +847,7 @@
     ]
   },
   {
-    "entry_id": 30,
+    "entry_id": 31,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "first.crack.coffee",
