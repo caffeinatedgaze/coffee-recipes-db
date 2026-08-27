@@ -11,6 +11,7 @@ from pathlib import Path
 from typing import Any
 from urllib.parse import quote
 from urllib.request import urlopen
+import re
 
 
 ROOT = Path(__file__).resolve().parent
@@ -135,9 +136,26 @@ def translate_to_english(text: str) -> str:
         payload = urlopen(url, timeout=30).read().decode("utf-8")
     except Exception:
         # Fall back when the local Python trust store is incomplete.
-        payload = urlopen(url, timeout=30, context=ssl._create_unverified_context()).read().decode("utf-8")
-    data = json.loads(payload)
-    return "".join(piece[0] for piece in data[0] if piece and piece[0])
+        try:
+            payload = urlopen(url, timeout=30, context=ssl._create_unverified_context()).read().decode("utf-8")
+            data = json.loads(payload)
+            return "".join(piece[0] for piece in data[0] if piece and piece[0])
+        except Exception:
+            pass
+    try:
+        source_lang = "ja" if re.search(r"[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff]", text) else "en"
+        fallback_url = (
+            "https://api.mymemory.translated.net/get"
+            f"?q={quote(text)}&langpair={source_lang}|en"
+        )
+        payload = urlopen(fallback_url, timeout=30).read().decode("utf-8")
+        data = json.loads(payload)
+        translated = data.get("responseData", {}).get("translatedText", "")
+        if translated:
+            return translated
+    except Exception:
+        pass
+    return text
 
 
 def ensure_translation_fields(seed: list[dict[str, Any]]) -> bool:
