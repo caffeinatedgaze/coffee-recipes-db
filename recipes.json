@@ -8,6 +8,35 @@
       "notes": "Public Instagram feed captured via instagram-cli."
     },
     "post": {
+      "shortcode": "Dc3PGKMy8Pc",
+      "post_url": "https://www.instagram.com/p/Dc3PGKMy8Pc/",
+      "posted_at": "2026-09-04T11:06:00Z",
+      "media_type": 2,
+      "like_count": 360,
+      "comment_count": 2
+    },
+    "title": "チロソをもっと知りたいきもち",
+    "category": "filter_recipe",
+    "summary": "粉量 13g 総注湯量 200g",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "チロソをもっと知りたいきもち\n\nーーー今回の抽出レシピーーー\n　\n@sabo.tokyo @haiz_coffee_import\nColombia Chiroso Washed\n\n@orea.uk\nOrea 02 + Switch\n\n粉量 13g 総注湯量 200g\n湯温 ①②③90℃ ④75℃\n挽目 中粗挽き(@comandante 27click)\n　\n①0:00-0:07 30g / open \n②0:40-0:47 90g / open \n③1:10-1:15 130g / open\n④1:40-1:50 200g / close\n⑤2:20 open ※動画内では1:20って言ってるけど2:20の間違いです\n2:50 done \n\nーーーーーーーーーーーーーー\n\nオレッチで透過と浸漬のハイブリッド抽出\n\nちょっと粗めの挽目で前半はしっかり透過させることで酸と甘さの明瞭度を高めるイメージ。\n\n後半はで浸漬抽出をしながら穏やかに甘さを引き出しつつ、柔らかい口当たりを狙って作っていくよ。\n\nチロソみたいな華やかさと力強さを兼ねそろえた豆をよりパキッと明るく仕上げるならこんな感じがいいかな。",
+    "transcript_en": "I want to know more about Chiroso\n\n---This extraction recipe--\n　\n@sabo.tokyo @haiz_coffee_import\nColombia Chiroso Washed\n\n@orea.uk\nOrea 02 + Switch\n\nPowder amount 13g Total pouring amount 200g\nWater temperature ①②③90℃ ④75℃\nMedium coarse grind (@comandante 27click)\n　\n①0:00-0:07 30g/open\n②0:40-0:47 90g/open\n③1:10-1:15 130g/open\n④1:40-1:50 200g/close\n⑤2:20 open *It says 1:20 in the video, but it's 2:20 wrong.\n2:50 done\n\nーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー\n\nHybrid extraction of permeation and immersion with Orech\n\nThe slightly coarser grind allows the first half to penetrate through, enhancing the clarity of the acidity and sweetness.\n\nIn the second half, I will use immersion extraction to gently bring out the sweetness and aim for a soft texture.\n\nIf you want to make a bean that has both the gorgeousness and strength of Tyroso and make it brighter and brighter, I think something like this would be good.",
+    "tags": [
+      "filter",
+      "instagram",
+      "pour-over",
+      "switch"
+    ]
+  },
+  {
+    "entry_id": 2,
+    "source": {
+      "handle": "tilt.45",
+      "display_name": "tilt.45",
+      "profile_url": "https://www.instagram.com/tilt.45/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
       "shortcode": "DcyS3xqBlIz",
       "post_url": "https://www.instagram.com/p/DcyS3xqBlIz/",
       "posted_at": "2026-09-02T13:00:34Z",
@@ -28,7 +57,7 @@
     ]
   },
   {
-    "entry_id": 2,
+    "entry_id": 3,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -57,7 +86,7 @@
     ]
   },
   {
-    "entry_id": 3,
+    "entry_id": 4,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -84,7 +113,7 @@
     ]
   },
   {
-    "entry_id": 4,
+    "entry_id": 5,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -111,7 +140,7 @@
     ]
   },
   {
-    "entry_id": 5,
+    "entry_id": 6,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -138,7 +167,7 @@
     ]
   },
   {
-    "entry_id": 6,
+    "entry_id": 7,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -166,7 +195,7 @@
     ]
   },
   {
-    "entry_id": 7,
+    "entry_id": 8,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -193,7 +222,7 @@
     ]
   },
   {
-    "entry_id": 8,
+    "entry_id": 9,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -222,7 +251,7 @@
     ]
   },
   {
-    "entry_id": 9,
+    "entry_id": 10,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -249,7 +278,7 @@
     ]
   },
   {
-    "entry_id": 10,
+    "entry_id": 11,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -277,7 +306,7 @@
     ]
   },
   {
-    "entry_id": 11,
+    "entry_id": 12,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -304,7 +333,7 @@
     ]
   },
   {
-    "entry_id": 12,
+    "entry_id": 13,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -332,7 +361,7 @@
     ]
   },
   {
-    "entry_id": 13,
+    "entry_id": 14,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -359,7 +388,7 @@
     ]
   },
   {
-    "entry_id": 14,
+    "entry_id": 15,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -387,7 +416,7 @@
     ]
   },
   {
-    "entry_id": 15,
+    "entry_id": 16,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -414,7 +443,7 @@
     ]
   },
   {
-    "entry_id": 16,
+    "entry_id": 17,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -442,7 +471,7 @@
     ]
   },
   {
-    "entry_id": 17,
+    "entry_id": 18,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -470,7 +499,7 @@
     ]
   },
   {
-    "entry_id": 18,
+    "entry_id": 19,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -497,7 +526,7 @@
     ]
   },
   {
-    "entry_id": 19,
+    "entry_id": 20,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -525,7 +554,7 @@
     ]
   },
   {
-    "entry_id": 20,
+    "entry_id": 21,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -554,7 +583,7 @@
     ]
   },
   {
-    "entry_id": 21,
+    "entry_id": 22,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -584,7 +613,7 @@
     ]
   },
   {
-    "entry_id": 22,
+    "entry_id": 23,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -614,7 +643,7 @@
     ]
   },
   {
-    "entry_id": 23,
+    "entry_id": 24,
     "source": {
       "handle": "bettr.academy",
       "display_name": "Bettr Academy",
@@ -643,7 +672,7 @@
     ]
   },
   {
-    "entry_id": 24,
+    "entry_id": 25,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -673,7 +702,7 @@
     ]
   },
   {
-    "entry_id": 25,
+    "entry_id": 26,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -703,7 +732,7 @@
     ]
   },
   {
-    "entry_id": 26,
+    "entry_id": 27,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "Specialty Coffee Association",
@@ -732,7 +761,7 @@
     ]
   },
   {
-    "entry_id": 27,
+    "entry_id": 28,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -761,7 +790,7 @@
     ]
   },
   {
-    "entry_id": 28,
+    "entry_id": 29,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "First Crack Coffee",
@@ -790,7 +819,7 @@
     ]
   },
   {
-    "entry_id": 29,
+    "entry_id": 30,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -817,7 +846,7 @@
     ]
   },
   {
-    "entry_id": 30,
+    "entry_id": 31,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -843,7 +872,7 @@
     ]
   },
   {
-    "entry_id": 31,
+    "entry_id": 32,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -869,7 +898,7 @@
     ]
   },
   {
-    "entry_id": 32,
+    "entry_id": 33,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -895,7 +924,7 @@
     ]
   },
   {
-    "entry_id": 33,
+    "entry_id": 34,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -922,7 +951,7 @@
     ]
   },
   {
-    "entry_id": 34,
+    "entry_id": 35,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "It’s Just Coffee Podcast",
@@ -951,7 +980,7 @@
     ]
   },
   {
-    "entry_id": 35,
+    "entry_id": 36,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -981,7 +1010,7 @@
     ]
   },
   {
-    "entry_id": 36,
+    "entry_id": 37,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -1008,7 +1037,7 @@
     ]
   },
   {
-    "entry_id": 37,
+    "entry_id": 38,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1038,7 +1067,7 @@
     ]
   },
   {
-    "entry_id": 38,
+    "entry_id": 39,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -1066,7 +1095,7 @@
     ]
   },
   {
-    "entry_id": 39,
+    "entry_id": 40,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1096,7 +1125,7 @@
     ]
   },
   {
-    "entry_id": 40,
+    "entry_id": 41,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "first.crack.coffee",

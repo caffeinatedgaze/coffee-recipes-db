@@ -2,10 +2,88 @@
 
 Curated coffee-making recipes and tips from public Instagram captions.
 
+## チロソをもっと知りたいきもち
+
+```text
+#1 チロソをもっと知りたいきもち
+Source: tilt.45 (@tilt.45)
+Profile: https://www.instagram.com/tilt.45/
+Post: https://www.instagram.com/p/Dc3PGKMy8Pc/
+Posted: 2026-09-04T11:06:00Z
+Category: filter_recipe
+Tags: filter, instagram, pour-over, switch
+Summary: 粉量 13g 総注湯量 200g
+Transcript source: Instagram caption
+
+Original:
+チロソをもっと知りたいきもち
+
+ーーー今回の抽出レシピーーー
+　
+@sabo.tokyo @haiz_coffee_import
+Colombia Chiroso Washed
+
+@orea.uk
+Orea 02 + Switch
+
+粉量 13g 総注湯量 200g
+湯温 ①②③90℃ ④75℃
+挽目 中粗挽き(@comandante 27click)
+　
+①0:00-0:07 30g / open 
+②0:40-0:47 90g / open 
+③1:10-1:15 130g / open
+④1:40-1:50 200g / close
+⑤2:20 open ※動画内では1:20って言ってるけど2:20の間違いです
+2:50 done 
+
+ーーーーーーーーーーーーーー
+
+オレッチで透過と浸漬のハイブリッド抽出
+
+ちょっと粗めの挽目で前半はしっかり透過させることで酸と甘さの明瞭度を高めるイメージ。
+
+後半はで浸漬抽出をしながら穏やかに甘さを引き出しつつ、柔らかい口当たりを狙って作っていくよ。
+
+チロソみたいな華やかさと力強さを兼ねそろえた豆をよりパキッと明るく仕上げるならこんな感じがいいかな。
+
+English:
+I want to know more about Chiroso
+
+---This extraction recipe--
+　
+@sabo.tokyo @haiz_coffee_import
+Colombia Chiroso Washed
+
+@orea.uk
+Orea 02 + Switch
+
+Powder amount 13g Total pouring amount 200g
+Water temperature ①②③90℃ ④75℃
+Medium coarse grind (@comandante 27click)
+　
+①0:00-0:07 30g/open
+②0:40-0:47 90g/open
+③1:10-1:15 130g/open
+④1:40-1:50 200g/close
+⑤2:20 open *It says 1:20 in the video, but it's 2:20 wrong.
+2:50 done
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+
+Hybrid extraction of permeation and immersion with Orech
+
+The slightly coarser grind allows the first half to penetrate through, enhancing the clarity of the acidity and sweetness.
+
+In the second half, I will use immersion extraction to gently bring out the sweetness and aim for a soft texture.
+
+If you want to make a bean that has both the gorgeousness and strength of Tyroso and make it brighter and brighter, I think something like this would be good.
+```
+
 ## 動画の最後に軽く告知あります
 
 ```text
-#1 動画の最後に軽く告知あります
+#2 動画の最後に軽く告知あります
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DcyS3xqBlIz/
@@ -93,7 +171,7 @@ Peru Juan Jose Huillca Singuna Geisha Washed
 ## 熊本へ、安らぎのあるコーヒータイムを
 
 ```text
-#2 熊本へ、安らぎのあるコーヒータイムを
+#3 熊本へ、安らぎのあるコーヒータイムを
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DcqSwPVx5IS/
@@ -171,7 +249,7 @@ Silk Dripper 1D3Cモデル
 ## Throwback to our February conversation with Brewers Cup Champion @tomrhutchins - a must listen for anyone who makes or d
 
 ```text
-#3 Throwback to our February conversation with Brewers Cup Champion @tomrhutchins - a must listen for anyone who makes or d
+#4 Throwback to our February conversation with Brewers Cup Champion @tomrhutchins - a must listen for anyone who makes or d
 Source: itsjustcoffeepodcast (@itsjustcoffeepodcast)
 Profile: https://www.instagram.com/itsjustcoffeepodcast/
 Post: https://www.instagram.com/p/Dcp0kB7jtq6/
@@ -209,7 +287,7 @@ Link in bio 🔗
 ## 🇧🇷One week, one incredible guest, and an unforgettable experience.
 
 ```text
-#4 🇧🇷One week, one incredible guest, and an unforgettable experience.
+#5 🇧🇷One week, one incredible guest, and an unforgettable experience.
 Source: bettr.academy (@bettr.academy)
 Profile: https://www.instagram.com/bettr.academy/
 Post: https://www.instagram.com/p/DcpkMdYpcCk/
@@ -245,7 +323,7 @@ Here’s a look back at the week that was.
 ## 🌱 Luiz is a coffee producer and trainer who truly inspired us this week.
 
 ```text
-#5 🌱 Luiz is a coffee producer and trainer who truly inspired us this week.
+#6 🌱 Luiz is a coffee producer and trainer who truly inspired us this week.
 Source: bettr.academy (@bettr.academy)
 Profile: https://www.instagram.com/bettr.academy/
 Post: https://www.instagram.com/p/DcnM14Iibqv/
@@ -277,7 +355,7 @@ Thank you, Luiz, for sharing your knowledge and your story with us. We’re leav
 ## お好みありますか？
 
 ```text
-#6 お好みありますか？
+#7 お好みありますか？
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DcikyUQR15z/
@@ -353,7 +431,7 @@ When you brew it, start with the balanced neutral version, then adjust it to you
 ## @jimseven ... how do you respond?!
 
 ```text
-#7 @jimseven ... how do you respond?!
+#8 @jimseven ... how do you respond?!
 Source: itsjustcoffeepodcast (@itsjustcoffeepodcast)
 Profile: https://www.instagram.com/itsjustcoffeepodcast/
 Post: https://www.instagram.com/p/DciGKdLj4FY/
@@ -389,7 +467,7 @@ Link in bio 😇
 ## 【8/22 20:00より販売開始】
 
 ```text
-#8 【8/22 20:00より販売開始】
+#9 【8/22 20:00より販売開始】
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DcUnxYRS00O/
@@ -471,7 +549,7 @@ We look forward to hearing your impressions after trying it.
 ## CQI Fermentation Class: From Microbes to Flavors
 
 ```text
-#9 CQI Fermentation Class: From Microbes to Flavors
+#10 CQI Fermentation Class: From Microbes to Flavors
 Source: bettr.academy (@bettr.academy)
 Profile: https://www.instagram.com/bettr.academy/
 Post: https://www.instagram.com/p/DcRpbWVIpRc/
@@ -531,7 +609,7 @@ Find out more and sign up via the link in bio.
 ## 台湾のコーヒー×Samo bloom
 
 ```text
-#10 台湾のコーヒー×Samo bloom
+#11 台湾のコーヒー×Samo bloom
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DcOJMW9SYSv/
@@ -611,7 +689,7 @@ Everyone, please try Samobloom with the coffee you have on hand (or use Taiwanes
 ## Another day, another mission from the boss: fill up the Coffee Fermentation course by Friday 🫡
 
 ```text
-#11 Another day, another mission from the boss: fill up the Coffee Fermentation course by Friday 🫡
+#12 Another day, another mission from the boss: fill up the Coffee Fermentation course by Friday 🫡
 Source: bettr.academy (@bettr.academy)
 Profile: https://www.instagram.com/bettr.academy/
 Post: https://www.instagram.com/p/DcLUPVmPxAi/
@@ -649,7 +727,7 @@ Link in bio!
 ## トライアル購読は超オトクなのでまだの人はぜひ🔥
 
 ```text
-#12 トライアル購読は超オトクなのでまだの人はぜひ🔥
+#13 トライアル購読は超オトクなのでまだの人はぜひ🔥
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DcI6Fb0RyM9/
@@ -727,7 +805,7 @@ If you are interested, please sign up for a trial subscription and enjoy it toge
 ## You heard it here first; the Australian Brewers Champion and World Brewers Cup runner-up @simon_gautherin lays out the l
 
 ```text
-#13 You heard it here first; the Australian Brewers Champion and World Brewers Cup runner-up @simon_gautherin lays out the l
+#14 You heard it here first; the Australian Brewers Champion and World Brewers Cup runner-up @simon_gautherin lays out the l
 Source: itsjustcoffeepodcast (@itsjustcoffeepodcast)
 Profile: https://www.instagram.com/itsjustcoffeepodcast/
 Post: https://www.instagram.com/p/Db2X9ckggfd/
@@ -767,7 +845,7 @@ Link in bio.
 ## 初めてのコーヒーにこそ選んでほしい、グアテマラ
 
 ```text
-#14 初めてのコーヒーにこそ選んでほしい、グアテマラ
+#15 初めてのコーヒーにこそ選んでほしい、グアテマラ
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/Db0UGTxRXl3/
@@ -839,7 +917,7 @@ By the way, Makinekko Cup is a limited edition item by @satoutyu's @sf_m_officia
 ## Coffee rules are more like suggestions.
 
 ```text
-#15 Coffee rules are more like suggestions.
+#16 Coffee rules are more like suggestions.
 Source: brickandmortarcoffee (@brickandmortarcoffee)
 Profile: https://www.instagram.com/brickandmortarcoffee/
 Post: https://www.instagram.com/p/Dbvj4_FCTvp/
@@ -875,7 +953,7 @@ Try it and let us know what you think.
 ## Did you believe any of these myths?
 
 ```text
-#16 Did you believe any of these myths?
+#17 Did you believe any of these myths?
 Source: bettr.academy (@bettr.academy)
 Profile: https://www.instagram.com/bettr.academy/
 Post: https://www.instagram.com/p/DbvJ0vCj66r/
@@ -913,7 +991,7 @@ Coffee Fermentation: from Microbes to Flavour
 ## 最近流行りの多投レシピ
 
 ```text
-#17 最近流行りの多投レシピ
+#18 最近流行りの多投レシピ
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DbpzJPpR-gR/
@@ -985,7 +1063,7 @@ If you want to improve the texture of this coffee, which has a beautiful taste e
 ## We were lucky enough to speak to @simon_gautherin and his coach @carlos.esco.bar after his incredible performance at The
 
 ```text
-#18 We were lucky enough to speak to @simon_gautherin and his coach @carlos.esco.bar after his incredible performance at The
+#19 We were lucky enough to speak to @simon_gautherin and his coach @carlos.esco.bar after his incredible performance at The
 Source: itsjustcoffeepodcast (@itsjustcoffeepodcast)
 Profile: https://www.instagram.com/itsjustcoffeepodcast/
 Post: https://www.instagram.com/p/DbhuSPuDqeX/
@@ -1021,7 +1099,7 @@ Link in bio
 ## カフェイン、足りてる？
 
 ```text
-#19 カフェイン、足りてる？
+#20 カフェイン、足りてる？
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/Dbf-EILSzY4/
@@ -1091,7 +1169,7 @@ It's a store with very good vibes.
 ## Your Americano has entered its fluffy era.
 
 ```text
-#20 Your Americano has entered its fluffy era.
+#21 Your Americano has entered its fluffy era.
 Source: Brick & Mortar Coffee (@brickandmortarcoffee)
 Profile: https://www.instagram.com/brickandmortarcoffee/
 Post: https://www.instagram.com/p/DbdwanzDjFX/
@@ -1127,7 +1205,7 @@ Try it at home and report back. For science.
 ## Granja Paraiso92 Colombia Yellow Typica DAT Honey
 
 ```text
-#21 Granja Paraiso92 Colombia Yellow Typica DAT Honey
+#22 Granja Paraiso92 Colombia Yellow Typica DAT Honey
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/Dba7oA_yTpq/
@@ -1201,7 +1279,7 @@ We look forward to hearing your impressions after trying it.
 ## Las Nubes Guatemala Bourbon Washed
 
 ```text
-#22 Las Nubes Guatemala Bourbon Washed
+#23 Las Nubes Guatemala Bourbon Washed
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/Dba7dqaytY4/
@@ -1269,7 +1347,7 @@ We look forward to hearing your impressions after trying it.
 ## Anaerobic coffee. You’ve seen it on a bag and nodded along, right?
 
 ```text
-#23 Anaerobic coffee. You’ve seen it on a bag and nodded along, right?
+#24 Anaerobic coffee. You’ve seen it on a bag and nodded along, right?
 Source: Bettr Academy (@bettr.academy)
 Profile: https://www.instagram.com/bettr.academy/
 Post: https://www.instagram.com/p/DbW4rOzj2c4/
@@ -1301,7 +1379,7 @@ Link in bio.
 ## 8月16日は蔵前 @au_riverside に集合！
 
 ```text
-#24 8月16日は蔵前 @au_riverside に集合！
+#25 8月16日は蔵前 @au_riverside に集合！
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DbSztGNBqVa/
@@ -1417,7 +1495,7 @@ No reservation required, anyone can participate
 ## お家でスターバックス、やってみて
 
 ```text
-#25 お家でスターバックス、やってみて
+#26 お家でスターバックス、やってみて
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DbNzrJ0xDa1/
@@ -1501,7 +1579,7 @@ Please try making coffee at home.
 ## Meet two new additions to the SCA Certified Home Brewers list
 
 ```text
-#26 Meet two new additions to the SCA Certified Home Brewers list
+#27 Meet two new additions to the SCA Certified Home Brewers list
 Source: Specialty Coffee Association (@specialtycoffeeassociation)
 Profile: https://www.instagram.com/specialtycoffeeassociation/
 Post: https://www.instagram.com/p/DbJKkFsoJn8/
@@ -1533,7 +1611,7 @@ Explore the full list of Certified Home Brewers at sca.coffee/certified-home-bre
 ## Coffee hot take: your Americano might taste better without the crema.
 
 ```text
-#27 Coffee hot take: your Americano might taste better without the crema.
+#28 Coffee hot take: your Americano might taste better without the crema.
 Source: Brick & Mortar Coffee (@brickandmortarcoffee)
 Profile: https://www.instagram.com/brickandmortarcoffee/
 Post: https://www.instagram.com/p/DbI8E5aCtlQ/
@@ -1561,7 +1639,7 @@ Removing that top layer can bring out more sweetness, brightness, and clarity wi
 ## We had such a great time hosting our recent coffee class
 
 ```text
-#28 We had such a great time hosting our recent coffee class
+#29 We had such a great time hosting our recent coffee class
 Source: First Crack Coffee (@first.crack.coffee)
 Profile: https://www.instagram.com/first.crack.coffee/
 Post: https://www.instagram.com/p/Da5b7CZER5U/
@@ -1589,7 +1667,7 @@ What would you love to learn about at a future coffee class? Share your ideas be
 ## James Hoffman made us rethink the Americano.
 
 ```text
-#29 James Hoffman made us rethink the Americano.
+#30 James Hoffman made us rethink the Americano.
 Source: brickandmortarcoffee (@brickandmortarcoffee)
 Profile: https://www.instagram.com/brickandmortarcoffee/
 Post: https://www.instagram.com/p/Da28HBID6a0/
@@ -1617,7 +1695,7 @@ So we made our own version.😎☕️
 ## How our SIGEP has been going. Feeling FOMO? There’s still time to drop by our booth at SIGEP Asia!
 
 ```text
-#30 How our SIGEP has been going. Feeling FOMO? There’s still time to drop by our booth at SIGEP Asia!
+#31 How our SIGEP has been going. Feeling FOMO? There’s still time to drop by our booth at SIGEP Asia!
 Source: bettr.academy (@bettr.academy)
 Profile: https://www.instagram.com/bettr.academy/
 Post: https://www.instagram.com/p/Da1_0WavRYr/
@@ -1649,7 +1727,7 @@ How our SIGEP has been going. Feeling FOMO? There’s still time to drop by our 
 ## Registered for a Bettr workshop? This is how you get there! All our workshops will be at Level 4 Melati 4111, see you th
 
 ```text
-#31 Registered for a Bettr workshop? This is how you get there! All our workshops will be at Level 4 Melati 4111, see you th
+#32 Registered for a Bettr workshop? This is how you get there! All our workshops will be at Level 4 Melati 4111, see you th
 Source: bettr.academy (@bettr.academy)
 Profile: https://www.instagram.com/bettr.academy/
 Post: https://www.instagram.com/p/DazTculJmI6/
@@ -1673,7 +1751,7 @@ Registered for a Bettr workshop? This is how you get there! All our workshops wi
 ## It’s DAY 1 of SIGEP 🚨 See you at our Booth on Level 1!
 
 ```text
-#32 It’s DAY 1 of SIGEP 🚨 See you at our Booth on Level 1!
+#33 It’s DAY 1 of SIGEP 🚨 See you at our Booth on Level 1!
 Source: bettr.academy (@bettr.academy)
 Profile: https://www.instagram.com/bettr.academy/
 Post: https://www.instagram.com/p/DazLDIkPtRY/
@@ -1701,7 +1779,7 @@ If you’ve signed up for our workshops, remember to take the lift up to LEVEL 4
 ## We have a bone to pick with James Hoffman.
 
 ```text
-#33 We have a bone to pick with James Hoffman.
+#34 We have a bone to pick with James Hoffman.
 Source: brickandmortarcoffee (@brickandmortarcoffee)
 Profile: https://www.instagram.com/brickandmortarcoffee/
 Post: https://www.instagram.com/p/DalNgOgjdW6/
@@ -1737,7 +1815,7 @@ Americano lovers, this one’s for you.
 ## Coffee Tasting Basics
 
 ```text
-#34 Coffee Tasting Basics
+#35 Coffee Tasting Basics
 Source: It’s Just Coffee Podcast (@itsjustcoffeepodcast)
 Profile: https://www.instagram.com/itsjustcoffeepodcast/
 Post: https://www.instagram.com/p/DaY4K_roMsz/
@@ -1807,7 +1885,7 @@ World Barista Champion Explains the Perfect Espresso !
 ## エチオピアｧｧｧｧｧｧって味、いいよね
 
 ```text
-#35 エチオピアｧｧｧｧｧｧって味、いいよね
+#36 エチオピアｧｧｧｧｧｧって味、いいよね
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DaXlKLVR4lS/
@@ -1883,7 +1961,7 @@ Also, the next arrival is undecided, so if you are interested, please check out 
 ## Sooo how many of these predictions did we actually get right?
 
 ```text
-#36 Sooo how many of these predictions did we actually get right?
+#37 Sooo how many of these predictions did we actually get right?
 Source: itsjustcoffeepodcast (@itsjustcoffeepodcast)
 Profile: https://www.instagram.com/itsjustcoffeepodcast/
 Post: https://www.instagram.com/p/DaJ7rACAG7R/
@@ -1925,7 +2003,7 @@ Listen now on YouTube or wherever you get your podcasts, and stay tuned for more
 ## オレッチはこう淹れる
 
 ```text
-#37 オレッチはこう淹れる
+#38 オレッチはこう淹れる
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DaFrxcAR3MK/
@@ -1997,7 +2075,7 @@ It looks like it will be released in Japan soon, so be sure to get it and give i
 ## STOP BUYING DRIPPERS. BUY FILTER PAPER!
 
 ```text
-#38 STOP BUYING DRIPPERS. BUY FILTER PAPER!
+#39 STOP BUYING DRIPPERS. BUY FILTER PAPER!
 Source: itsjustcoffeepodcast (@itsjustcoffeepodcast)
 Profile: https://www.instagram.com/itsjustcoffeepodcast/
 Post: https://www.instagram.com/p/DaCipRxD96k/
@@ -2063,7 +2141,7 @@ What paper are you using at the moment? 👇
 ## イエメンのコーヒーはこんな感じで淹れたい
 
 ```text
-#39 イエメンのコーヒーはこんな感じで淹れたい
+#40 イエメンのコーヒーはこんな感じで淹れたい
 Source: tilt.45 (@tilt.45)
 Profile: https://www.instagram.com/tilt.45/
 Post: https://www.instagram.com/p/DZ7JTjcRP8U/
@@ -2131,7 +2209,7 @@ By using a wave filter to reduce the bulk of the coffee bed and make it crisp, w
 ## We wanted to create a competition that’s both fun and true to what we do every day in coffee: cupping, testing our senso
 
 ```text
-#40 We wanted to create a competition that’s both fun and true to what we do every day in coffee: cupping, testing our senso
+#41 We wanted to create a competition that’s both fun and true to what we do every day in coffee: cupping, testing our senso
 Source: first.crack.coffee (@first.crack.coffee)
 Profile: https://www.instagram.com/first.crack.coffee/
 Post: https://www.instagram.com/p/DKcWGNrxixs/
