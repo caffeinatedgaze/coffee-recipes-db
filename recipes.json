@@ -2,6 +2,60 @@
   {
     "entry_id": 1,
     "source": {
+      "handle": "bettr.academy",
+      "display_name": "bettr.academy",
+      "profile_url": "https://www.instagram.com/bettr.academy/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DdlqpTiiYaZ",
+      "post_url": "https://www.instagram.com/p/DdlqpTiiYaZ/",
+      "posted_at": "2026-09-22T11:49:40Z",
+      "media_type": 8,
+      "like_count": 10,
+      "comment_count": 0
+    },
+    "title": "📢New at the Academy: AeroPress Workshop ☕",
+    "category": "tasting",
+    "summary": "Your AeroPress deserves better than guesswork! This hands-on session takes you from the fundamentals (setup to brew process) through the variables that actually shape your cup, hot and iced recipes, and how to modulate your recipe to match ",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "📢New at the Academy: AeroPress Workshop ☕\n\nYour AeroPress deserves better than guesswork! \nThis hands-on session takes you from the fundamentals (setup to brew process) through the variables that actually shape your cup, hot and iced recipes, and how to modulate your recipe to match your own taste. By the end, you’ll be brewing with intention, not just following a recipe card.\n\n📅 8 Oct, 10AM–12PM 🎟️ $60++ 📍 Bettr Academy\n\nSpots are limited to 20 learners, so sign up early. Link in bio.\n\n🏆👀 And if you are interested in spectating the AeroPress Championship, the sign up link is also in the bio!",
+    "transcript_en": "📢New at the Academy: AeroPress Workshop ☕\n\nYour AeroPress deserves better than guesswork! \nThis hands-on session takes you from the fundamentals (setup to brew process) through the variables that actually shape your cup, hot and iced recipes, and how to modulate your recipe to match your own taste. By the end, you’ll be brewing with intention, not just following a recipe card.\n\n📅 8 Oct, 10AM–12PM 🎟️ $60++ 📍 Bettr Academy\n\nSpots are limited to 20 learners, so sign up early. Link in bio.\n\n🏆👀 And if you are interested in spectating the AeroPress Championship, the sign up link is also in the bio!",
+    "tags": [
+      "brew",
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 2,
+    "source": {
+      "handle": "specialtycoffeeassociation",
+      "display_name": "specialtycoffeeassociation",
+      "profile_url": "https://www.instagram.com/specialtycoffeeassociation/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DdkMqqGh9QZ",
+      "post_url": "https://www.instagram.com/p/DdkMqqGh9QZ/",
+      "posted_at": "2026-09-21T22:11:09Z",
+      "media_type": 1,
+      "like_count": 230,
+      "comment_count": 3
+    },
+    "title": "A $1 million investment in the future of coffee science will support the next generation of researchers at the UC Davis ",
+    "category": "gear",
+    "summary": "The Specialty Coffee Association @specialtycoffeeassociation has established the Specialty Coffee Association Endowed Fellowship in Coffee Science, providing ongoing support for graduate students conducting research across disciplines inclu",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "A $1 million investment in the future of coffee science will support the next generation of researchers at the UC Davis Coffee Center in the College of Engineering. ☕️\n\nThe Specialty Coffee Association @specialtycoffeeassociation has established the Specialty Coffee Association Endowed Fellowship in Coffee Science, providing ongoing support for graduate students conducting research across disciplines including engineering, chemistry, sensory science, brewing, roasting and postharvest processing.\n\nThe fellowship will also expand opportunities for international scholars, particularly students from coffee-producing regions, bringing new perspectives and experiences into coffee research at UC Davis.\n\nRead more about the endowed fellowship: https://engineering.ucdavis.edu/news/1-million-fellowship-coffee-science-established-uc-davis\n\n#UCDavisEngineering\n\nImage description: William Ristenpart, founding director of the UC Davis Coffee Center, and Yannis Apostolopoulos, CEO of the Specialty Coffee Association, sit together in the Coffee Center near roasters. They hold coffee cups up and sit with various coffee-related items.",
+    "transcript_en": "A $1 million investment in the future of coffee science will support the next generation of researchers at the UC Davis Coffee Center in the College of Engineering. ☕️\n\nThe Specialty Coffee Association @specialtycoffeeassociation has established the Specialty Coffee Association Endowed Fellowship in Coffee Science, providing ongoing support for graduate students conducting research across disciplines including engineering, chemistry, sensory science, brewing, roasting and postharvest processing.\n\nThe fellowship will also expand opportunities for international scholars, particularly students from coffee-producing regions, bringing new perspectives and experiences into coffee research at UC Davis.\n\nRead more about the endowed fellowship: https://engineering.ucdavis.edu/news/1-million-fellowship-coffee-science-established-uc-davis\n\n#UCDavisEngineering\n\nImage description: William Ristenpart, founding director of the UC Davis Coffee Center, and Yannis Apostolopoulos, CEO of the Specialty Coffee Association, sit together in the Coffee Center near roasters. They hold coffee cups up and sit with various coffee-related items.",
+    "tags": [
+      "brew",
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 3,
+    "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
       "profile_url": "https://www.instagram.com/tilt.45/",
@@ -29,7 +83,7 @@
     ]
   },
   {
-    "entry_id": 2,
+    "entry_id": 4,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "specialtycoffeeassociation",
@@ -56,7 +110,7 @@
     ]
   },
   {
-    "entry_id": 3,
+    "entry_id": 5,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -85,7 +139,7 @@
     ]
   },
   {
-    "entry_id": 4,
+    "entry_id": 6,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -111,7 +165,7 @@
     ]
   },
   {
-    "entry_id": 5,
+    "entry_id": 7,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -140,7 +194,7 @@
     ]
   },
   {
-    "entry_id": 6,
+    "entry_id": 8,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -168,7 +222,7 @@
     ]
   },
   {
-    "entry_id": 7,
+    "entry_id": 9,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -194,7 +248,7 @@
     ]
   },
   {
-    "entry_id": 8,
+    "entry_id": 10,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -223,7 +277,7 @@
     ]
   },
   {
-    "entry_id": 9,
+    "entry_id": 11,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -249,7 +303,7 @@
     ]
   },
   {
-    "entry_id": 10,
+    "entry_id": 12,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -278,7 +332,7 @@
     ]
   },
   {
-    "entry_id": 11,
+    "entry_id": 13,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -306,7 +360,7 @@
     ]
   },
   {
-    "entry_id": 12,
+    "entry_id": 14,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -335,7 +389,7 @@
     ]
   },
   {
-    "entry_id": 13,
+    "entry_id": 15,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -363,7 +417,7 @@
     ]
   },
   {
-    "entry_id": 14,
+    "entry_id": 16,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -392,7 +446,7 @@
     ]
   },
   {
-    "entry_id": 15,
+    "entry_id": 17,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -419,7 +473,7 @@
     ]
   },
   {
-    "entry_id": 16,
+    "entry_id": 18,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -446,7 +500,7 @@
     ]
   },
   {
-    "entry_id": 17,
+    "entry_id": 19,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -473,7 +527,7 @@
     ]
   },
   {
-    "entry_id": 18,
+    "entry_id": 20,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -501,7 +555,7 @@
     ]
   },
   {
-    "entry_id": 19,
+    "entry_id": 21,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -528,7 +582,7 @@
     ]
   },
   {
-    "entry_id": 20,
+    "entry_id": 22,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -557,7 +611,7 @@
     ]
   },
   {
-    "entry_id": 21,
+    "entry_id": 23,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -584,7 +638,7 @@
     ]
   },
   {
-    "entry_id": 22,
+    "entry_id": 24,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -612,7 +666,7 @@
     ]
   },
   {
-    "entry_id": 23,
+    "entry_id": 25,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -639,7 +693,7 @@
     ]
   },
   {
-    "entry_id": 24,
+    "entry_id": 26,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -667,7 +721,7 @@
     ]
   },
   {
-    "entry_id": 25,
+    "entry_id": 27,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -694,7 +748,7 @@
     ]
   },
   {
-    "entry_id": 26,
+    "entry_id": 28,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -722,7 +776,7 @@
     ]
   },
   {
-    "entry_id": 27,
+    "entry_id": 29,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -749,7 +803,7 @@
     ]
   },
   {
-    "entry_id": 28,
+    "entry_id": 30,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -777,7 +831,7 @@
     ]
   },
   {
-    "entry_id": 29,
+    "entry_id": 31,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -805,7 +859,7 @@
     ]
   },
   {
-    "entry_id": 30,
+    "entry_id": 32,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -832,7 +886,7 @@
     ]
   },
   {
-    "entry_id": 31,
+    "entry_id": 33,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -860,7 +914,7 @@
     ]
   },
   {
-    "entry_id": 32,
+    "entry_id": 34,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -889,7 +943,7 @@
     ]
   },
   {
-    "entry_id": 33,
+    "entry_id": 35,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -919,7 +973,7 @@
     ]
   },
   {
-    "entry_id": 34,
+    "entry_id": 36,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -949,7 +1003,7 @@
     ]
   },
   {
-    "entry_id": 35,
+    "entry_id": 37,
     "source": {
       "handle": "bettr.academy",
       "display_name": "Bettr Academy",
@@ -978,7 +1032,7 @@
     ]
   },
   {
-    "entry_id": 36,
+    "entry_id": 38,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1008,7 +1062,7 @@
     ]
   },
   {
-    "entry_id": 37,
+    "entry_id": 39,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1038,7 +1092,7 @@
     ]
   },
   {
-    "entry_id": 38,
+    "entry_id": 40,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "Specialty Coffee Association",
@@ -1067,7 +1121,7 @@
     ]
   },
   {
-    "entry_id": 39,
+    "entry_id": 41,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -1096,7 +1150,7 @@
     ]
   },
   {
-    "entry_id": 40,
+    "entry_id": 42,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "First Crack Coffee",
@@ -1125,7 +1179,7 @@
     ]
   },
   {
-    "entry_id": 41,
+    "entry_id": 43,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -1152,7 +1206,7 @@
     ]
   },
   {
-    "entry_id": 42,
+    "entry_id": 44,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -1178,7 +1232,7 @@
     ]
   },
   {
-    "entry_id": 43,
+    "entry_id": 45,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -1204,7 +1258,7 @@
     ]
   },
   {
-    "entry_id": 44,
+    "entry_id": 46,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -1230,7 +1284,7 @@
     ]
   },
   {
-    "entry_id": 45,
+    "entry_id": 47,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -1257,7 +1311,7 @@
     ]
   },
   {
-    "entry_id": 46,
+    "entry_id": 48,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "It’s Just Coffee Podcast",
@@ -1286,7 +1340,7 @@
     ]
   },
   {
-    "entry_id": 47,
+    "entry_id": 49,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1316,7 +1370,7 @@
     ]
   },
   {
-    "entry_id": 48,
+    "entry_id": 50,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -1343,7 +1397,7 @@
     ]
   },
   {
-    "entry_id": 49,
+    "entry_id": 51,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1373,7 +1427,7 @@
     ]
   },
   {
-    "entry_id": 50,
+    "entry_id": 52,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -1401,7 +1455,7 @@
     ]
   },
   {
-    "entry_id": 51,
+    "entry_id": 53,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1431,7 +1485,7 @@
     ]
   },
   {
-    "entry_id": 52,
+    "entry_id": 54,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "first.crack.coffee",
