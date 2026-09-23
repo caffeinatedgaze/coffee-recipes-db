@@ -2,6 +2,32 @@
   {
     "entry_id": 1,
     "source": {
+      "handle": "first.crack.coffee",
+      "display_name": "first.crack.coffee",
+      "profile_url": "https://www.instagram.com/first.crack.coffee/",
+      "notes": "Public Instagram feed captured via instagram-cli."
+    },
+    "post": {
+      "shortcode": "DdmK15Iv57U",
+      "post_url": "https://www.instagram.com/p/DdmK15Iv57U/",
+      "posted_at": "2026-09-22T16:34:01Z",
+      "media_type": 2,
+      "like_count": 26,
+      "comment_count": 1
+    },
+    "title": "We’re so excited to bring hands-on classes back to our coffee roastery! ☕️",
+    "category": "coffee_note",
+    "summary": "Classes will be led by Collin Bay, co-founder and owner of First Crack Coffee, a specialty coffee education and equipment company. Whether you’re looking to learn more about coffee, dial in your espresso skills, or pick up a few new techniq",
+    "transcript_source": "Instagram caption",
+    "transcript_original": "We’re so excited to bring hands-on classes back to our coffee roastery! ☕️\n\nClasses will be led by Collin Bay, co-founder and owner of First Crack Coffee, a specialty coffee education and equipment company.\n\nWhether you’re looking to learn more about coffee, dial in your espresso skills, or pick up a few new techniques, these classes will help you create a better coffee experience in your own space.\n\nClass sizes are intentionally kept small to allow plenty of time for questions, practice, and individual instruction. Explore the upcoming schedule and reserve your spot early!",
+    "transcript_en": "We’re so excited to bring hands-on classes back to our coffee roastery! ☕️\n\nClasses will be led by Collin Bay, co-founder and owner of First Crack Coffee, a specialty coffee education and equipment company.\n\nWhether you’re looking to learn more about coffee, dial in your espresso skills, or pick up a few new techniques, these classes will help you create a better coffee experience in your own space.\n\nClass sizes are intentionally kept small to allow plenty of time for questions, practice, and individual instruction. Explore the upcoming schedule and reserve your spot early!",
+    "tags": [
+      "instagram"
+    ]
+  },
+  {
+    "entry_id": 2,
+    "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
       "profile_url": "https://www.instagram.com/bettr.academy/",
@@ -27,7 +53,7 @@
     ]
   },
   {
-    "entry_id": 2,
+    "entry_id": 3,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "specialtycoffeeassociation",
@@ -54,7 +80,7 @@
     ]
   },
   {
-    "entry_id": 3,
+    "entry_id": 4,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -83,7 +109,7 @@
     ]
   },
   {
-    "entry_id": 4,
+    "entry_id": 5,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "specialtycoffeeassociation",
@@ -110,7 +136,7 @@
     ]
   },
   {
-    "entry_id": 5,
+    "entry_id": 6,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -139,7 +165,7 @@
     ]
   },
   {
-    "entry_id": 6,
+    "entry_id": 7,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -165,7 +191,7 @@
     ]
   },
   {
-    "entry_id": 7,
+    "entry_id": 8,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -194,7 +220,7 @@
     ]
   },
   {
-    "entry_id": 8,
+    "entry_id": 9,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -222,7 +248,7 @@
     ]
   },
   {
-    "entry_id": 9,
+    "entry_id": 10,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -248,7 +274,7 @@
     ]
   },
   {
-    "entry_id": 10,
+    "entry_id": 11,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -277,7 +303,7 @@
     ]
   },
   {
-    "entry_id": 11,
+    "entry_id": 12,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -303,7 +329,7 @@
     ]
   },
   {
-    "entry_id": 12,
+    "entry_id": 13,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -332,7 +358,7 @@
     ]
   },
   {
-    "entry_id": 13,
+    "entry_id": 14,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -360,7 +386,7 @@
     ]
   },
   {
-    "entry_id": 14,
+    "entry_id": 15,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -389,7 +415,7 @@
     ]
   },
   {
-    "entry_id": 15,
+    "entry_id": 16,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -417,7 +443,7 @@
     ]
   },
   {
-    "entry_id": 16,
+    "entry_id": 17,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -446,7 +472,7 @@
     ]
   },
   {
-    "entry_id": 17,
+    "entry_id": 18,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -473,7 +499,7 @@
     ]
   },
   {
-    "entry_id": 18,
+    "entry_id": 19,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -500,7 +526,7 @@
     ]
   },
   {
-    "entry_id": 19,
+    "entry_id": 20,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -527,7 +553,7 @@
     ]
   },
   {
-    "entry_id": 20,
+    "entry_id": 21,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -555,7 +581,7 @@
     ]
   },
   {
-    "entry_id": 21,
+    "entry_id": 22,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -582,7 +608,7 @@
     ]
   },
   {
-    "entry_id": 22,
+    "entry_id": 23,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -611,7 +637,7 @@
     ]
   },
   {
-    "entry_id": 23,
+    "entry_id": 24,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -638,7 +664,7 @@
     ]
   },
   {
-    "entry_id": 24,
+    "entry_id": 25,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -666,7 +692,7 @@
     ]
   },
   {
-    "entry_id": 25,
+    "entry_id": 26,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -693,7 +719,7 @@
     ]
   },
   {
-    "entry_id": 26,
+    "entry_id": 27,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -721,7 +747,7 @@
     ]
   },
   {
-    "entry_id": 27,
+    "entry_id": 28,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -748,7 +774,7 @@
     ]
   },
   {
-    "entry_id": 28,
+    "entry_id": 29,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -776,7 +802,7 @@
     ]
   },
   {
-    "entry_id": 29,
+    "entry_id": 30,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -803,7 +829,7 @@
     ]
   },
   {
-    "entry_id": 30,
+    "entry_id": 31,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -831,7 +857,7 @@
     ]
   },
   {
-    "entry_id": 31,
+    "entry_id": 32,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -859,7 +885,7 @@
     ]
   },
   {
-    "entry_id": 32,
+    "entry_id": 33,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -886,7 +912,7 @@
     ]
   },
   {
-    "entry_id": 33,
+    "entry_id": 34,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -914,7 +940,7 @@
     ]
   },
   {
-    "entry_id": 34,
+    "entry_id": 35,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -943,7 +969,7 @@
     ]
   },
   {
-    "entry_id": 35,
+    "entry_id": 36,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -973,7 +999,7 @@
     ]
   },
   {
-    "entry_id": 36,
+    "entry_id": 37,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1003,7 +1029,7 @@
     ]
   },
   {
-    "entry_id": 37,
+    "entry_id": 38,
     "source": {
       "handle": "bettr.academy",
       "display_name": "Bettr Academy",
@@ -1032,7 +1058,7 @@
     ]
   },
   {
-    "entry_id": 38,
+    "entry_id": 39,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1062,7 +1088,7 @@
     ]
   },
   {
-    "entry_id": 39,
+    "entry_id": 40,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1092,7 +1118,7 @@
     ]
   },
   {
-    "entry_id": 40,
+    "entry_id": 41,
     "source": {
       "handle": "specialtycoffeeassociation",
       "display_name": "Specialty Coffee Association",
@@ -1121,7 +1147,7 @@
     ]
   },
   {
-    "entry_id": 41,
+    "entry_id": 42,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "Brick & Mortar Coffee",
@@ -1150,7 +1176,7 @@
     ]
   },
   {
-    "entry_id": 42,
+    "entry_id": 43,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "First Crack Coffee",
@@ -1179,7 +1205,7 @@
     ]
   },
   {
-    "entry_id": 43,
+    "entry_id": 44,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -1206,7 +1232,7 @@
     ]
   },
   {
-    "entry_id": 44,
+    "entry_id": 45,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -1232,7 +1258,7 @@
     ]
   },
   {
-    "entry_id": 45,
+    "entry_id": 46,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -1258,7 +1284,7 @@
     ]
   },
   {
-    "entry_id": 46,
+    "entry_id": 47,
     "source": {
       "handle": "bettr.academy",
       "display_name": "bettr.academy",
@@ -1284,7 +1310,7 @@
     ]
   },
   {
-    "entry_id": 47,
+    "entry_id": 48,
     "source": {
       "handle": "brickandmortarcoffee",
       "display_name": "brickandmortarcoffee",
@@ -1311,7 +1337,7 @@
     ]
   },
   {
-    "entry_id": 48,
+    "entry_id": 49,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "It’s Just Coffee Podcast",
@@ -1340,7 +1366,7 @@
     ]
   },
   {
-    "entry_id": 49,
+    "entry_id": 50,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1370,7 +1396,7 @@
     ]
   },
   {
-    "entry_id": 50,
+    "entry_id": 51,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -1397,7 +1423,7 @@
     ]
   },
   {
-    "entry_id": 51,
+    "entry_id": 52,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1427,7 +1453,7 @@
     ]
   },
   {
-    "entry_id": 52,
+    "entry_id": 53,
     "source": {
       "handle": "itsjustcoffeepodcast",
       "display_name": "itsjustcoffeepodcast",
@@ -1455,7 +1481,7 @@
     ]
   },
   {
-    "entry_id": 53,
+    "entry_id": 54,
     "source": {
       "handle": "tilt.45",
       "display_name": "tilt.45",
@@ -1485,7 +1511,7 @@
     ]
   },
   {
-    "entry_id": 54,
+    "entry_id": 55,
     "source": {
       "handle": "first.crack.coffee",
       "display_name": "first.crack.coffee",
